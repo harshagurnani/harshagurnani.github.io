@@ -7,10 +7,10 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<img align="right" src="/images/cricket.png" alt="Hand ready to catch ball" width="45%" />
+
 I am broadly interested in the __multiple ways we learn__  - combining observations and guesses, as specific rules or general concepts, motivated by reward or internal goals. This learning is ultimately enabled and implemented via circuits in our brain - how is the architecture and activity of relevant brain regions adapted to exploit the structure of "the world as it is", while remaining enormously flexible, allowing us to learn to use new tools and concepts that human creativity continually produces?
 
-
+<img align="right" src="/images/cricket.png" alt="Hand ready to catch ball" width="45%" />
 Specifically, I am interested in the forms of __error-driven learning__ (sensory- and reward-prediction errors) that rely on two critical features:
 - _feedback_ (via sensory experiences), and 
 - _internal models_ (models of the world and body that allow us to predict the consequences of our actions, to plan and to simulate). 
