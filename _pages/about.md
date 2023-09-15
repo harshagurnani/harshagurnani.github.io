@@ -28,7 +28,7 @@ I am currently a postdoctoral fellow with [Prof Bing Brunton](https://www.bingbr
 My current project explores the __control of recurrent neural dynamics__ (such as activity in motor cortex) via feedback inputs, and the role of __flexible feedback modulation in motor adaptation__. This may helps us better dissect the mechanisms of short-term adaptation versus long-term learning, and guide the design of more learnable brain-computer interfaces as rehabilitative devices.
 
 ## Previously:
-I obtained my PhD with [Prof Angus Silver](https://silverlab.org/), funded by a Wellcome Trust PhD studentship, where I examined neural activity in the cerebellar input layer, with a focus on inhibitory Golgi cells and the multiple roles of electrical coupling. I focussed on two main questions:
+I obtained my PhD with [Prof Angus Silver](https://silverlab.org/) at University College London, funded by a Wellcome Trust PhD studentship, where I examined neural activity in the cerebellar input layer, with a focus on inhibitory Golgi cells and the multiple roles of electrical coupling. I focussed on two main questions:
 
 1. What is the __dynamical regime of electrically coupled networks__, and how is this determined by the connectivity structure and input statistics?
 
