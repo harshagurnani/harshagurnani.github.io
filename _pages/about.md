@@ -8,20 +8,25 @@ redirect_from:
   - /about.html
 ---
 
-I am a Schmidt Science postdoctoral fellow in neuroscience. I am broadly interested in the __multiple ways we learn__  - combining observations and guesses, as specific rules or general concepts, motivated by reward or internal goals. This learning is ultimately enabled and implemented via circuits in our brain - how is the architecture and activity of relevant brain regions adapted to exploit the structure of "the world as it is", while remaining enormously flexible, allowing us to learn to use new tools and concepts that human creativity continually produces?
+I am a Schmidt Science postdoctoral fellow in neuroscience. I am broadly interested in the __multiple ways we learn__  - combining observations and guesses, as specific rules or general concepts, motivated by reward or internal goals. This learning is ultimately enabled and implemented via circuits in our brain - how does the architecture and activity of relevant brain regions allow us to exploit the structure of "the world as it is", while remaining enormously flexible, allowing us to learn to use new tools and concepts that human creativity continually produces?
+
+__Contact__: harsha84(at)uw.edu
+
+[Complete CV](files/GURNANI_Harsha_CV.pdf)
+
 
 <img align="right" src="/images/cricket.png" alt="Hand ready to catch ball" hspace=20px width="50%" />
-Specifically, I am interested in the forms of __error-driven learning__ (sensory- and reward-prediction errors) that rely on two critical features:
+
+## Research interests:
+I am interested in the forms of __error-driven learning__ (sensory- and reward-prediction errors) that rely on two critical features:
 - _feedback_ (via sensory experiences), and 
 - _internal models_ (models of the world and body that allow us to predict the consequences of our actions, to plan and to simulate). 
 
+I also how these interactions lead to rapid and flexible updating of internal representations on slow (hours) and fast timescales (sub-second).
 
 I  use a variety of techniques prevalent in systems and computational neuroscience - __neural recording and perturbation__ tools, __behavioural assays__ in rodents, __neural network models__, and __statistical analysis__ of high-dimensional data.
 
 
-
-__Contact__: harsha84(at)uw.edu
-[Complete CV](files/GURNANI_Harsha_CV.pdf)
 
 
 ## Current work:
