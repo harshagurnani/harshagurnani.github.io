@@ -7,7 +7,7 @@ author_profile: true
 
 ### Peer-reviewed publications
 
-1. **Harsha Gurnani**\*, N Alex Cayco-Gajic\*. __Signatures of task learning in neural representations__ (2023). _Current Opinion in Neurobiology_ - Computational neuroscience issue (_in press_). [[pdf]](../files/Gurnani_CaycoGajic_2023.pdf)
+1. **Harsha Gurnani**\*, N Alex Cayco-Gajic\*. __Signatures of task learning in neural representations__ (2023). _Current Opinion in Neurobiology_ - Computational neuroscience issue. [[pdf]](../files/Gurnani_CaycoGajic_2023.pdf) [[link]](https://www.sciencedirect.com/science/article/pii/S0959438823000843?via%3Dihub) 
 
 2.  Frederic Lanore\*, N Alex Cayco-Gajic\*, **Harsha Gurnani**, Diccon Coyle, R Angus Silver. __Cerebellar granule cell axons support high-dimensional representations__ (2021). *Nature Neuroscience*. [[pdf]](http://harshagurnani.github.io/files/Lanoreetal_2021.pdf) [[link]](https://www.nature.com/articles/s41593-021-00873-x) [[data]](https://rdr.ucl.ac.uk/articles/dataset/Cerebellar_granule_cell_axons_support_high_dimensional_representations/14482977)  [[code]](https://github.com/SilverLabUCL/ParallelFibres)
 
