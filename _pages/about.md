@@ -14,24 +14,23 @@ I am a Schmidt Science postdoctoral fellow in neuroscience. I am broadly interes
 
 __Contact__: harsha84(at)uw.edu
 
-[Complete CV](files/GURNANI_Harsha_CV.pdf)
+[Download CV](files/GURNANI_Harsha_CV.pdf)
 
 ## Research interests:
 
-
-I am interested in the forms of __error-driven learning__ (sensory- and reward-prediction errors) that rely on two critical features:
+I am interested in forms of __error-driven learning__ (e.g. sensory- and reward-prediction errors) that rely on two critical features:
 - _feedback_ (via sensory experiences), and 
 - _internal models_ (models of the world and body that allow us to predict the consequences of our actions, to plan and to simulate). 
 
-I also study how related neural dynamics support the rapid and __flexible updating of internal representations__ on slow (hours) and fast timescales (sub-second).
+I also study how related neural dynamics support the rapid and __flexible updating of internal representations__ on slow (hours) and fast (sub-second) timescales.
 
-I  use a variety of techniques prevalent in systems and computational neuroscience - __neural recording and perturbation__ tools, __behavioural assays__ in rodents, __neural network models__, and __statistical analysis__ of high-dimensional data.
+I  use a variety of experimental and quantitative approaches - __neural recording and perturbation__ tools, __behavioural assays__ in rodents, __neural network models__, and __statistical analysis__ of high-dimensional data.
 
 
 
 
 ## Current work:
-I am currently a postdoctoral fellow with [Prof Bing Brunton](https://www.bingbrunton.com/) at the University of Washington, Seattle. In 2022, I was awarded a [Schmidt Science postdoctoral fellowship](https://schmidtsciencefellows.org/fellows/?fellow-keyword=&fellow-year=2022&filter=true) to pivot from neurophysiology and learn techniques from applied math and engineering (such as __data-driven dynamical systems__ modelling and __control__). These techniques will be critical for closed-loop interrogation of brain-and-behaviour (e.g. with optogenetics or electrical stimulation) by better accounting for the system dynamics.
+I am currently a postdoctoral fellow with [Prof Bing Brunton](https://www.bingbrunton.com/) at the University of Washington, Seattle. In 2022, I was awarded a [Schmidt Science postdoctoral fellowship](https://schmidtsciencefellows.org/fellows/?fellow-keyword=&fellow-year=2022&filter=true) to pivot from neurophysiology and learn techniques such as __data-driven dynamical systems__ modelling and __control__. These techniques will be critical for closed-loop interrogation of brain-and-behaviour (e.g. with optogenetics or electrical stimulation) by better accounting for the system dynamics.
 
 My current project explores the __control of recurrent neural dynamics__ (such as activity in motor cortex) via feedback inputs, and the role of __flexible feedback modulation in motor adaptation__. This may helps us better dissect the mechanisms of short-term adaptation versus long-term learning, and guide the design of more learnable brain-computer interfaces as rehabilitative devices.
 

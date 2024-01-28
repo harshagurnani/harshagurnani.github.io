@@ -19,7 +19,7 @@
 
 
 
-<title>Research - Math, Molecules and the Mind</title>
+<title>Research_old - Math, Molecules and the Mind</title>
 
 
 
@@ -29,11 +29,11 @@
 
 <meta property="og:locale" content="en-US">
 <meta property="og:site_name" content="Math, Molecules and the Mind">
-<meta property="og:title" content="Research">
+<meta property="og:title" content="Research_old">
 
 
-  <link rel="canonical" href="http://localhost:4000/research/">
-  <meta property="og:url" content="http://localhost:4000/research/">
+  <link rel="canonical" href="http://localhost:4000/research_old/">
+  <meta property="og:url" content="http://localhost:4000/research_old/">
 
 
 
@@ -250,7 +250,7 @@
 
   <div class="archive">
     
-      <h1 class="page__title">Research</h1>
+      <h1 class="page__title">Research_old</h1>
     
     <h3 id="list-of-projects">List of Projects:</h3>
 <ol>
@@ -266,8 +266,8 @@
 
 <h2 id="1-feedback-control-of-cortical-dynamics">1 Feedback control of Cortical Dynamics</h2>
 <hr />
-<p><img align="left" src="../../images/control_fig.png" alt="Schematic of feedback controller in brain controlling rnn and indirectly an effector" title="Modelling recurrent network dynamics, with inputs from a feedback controller inputs, during a 2D cursor manipulation task" hspace="20px" vspace="20px" width="70%" />
-I use <em>recurrent neural networks (RNNs)</em> to model motor control tasks, including the use of motor BCI (brain-computer interfaces), where feedback about the output - either as <em>“efference copy”</em> and/or <em>sensed state</em> of the effector (limb, cursor, voice) - is a critical component to successful task completion. This feedback is needed to alter network dynamics in real time, in response to noise or external perturbations, to adjust the motor output. Moreover, learning in these networks may involve changes to the feedback inputs rather than to the recurrent network structure itself, especially when the dynamics are expressive enough. Borrowing insights from work on state-feedback controllers and modelling these “controllers” using neural network architectures, I study the implications of such an organization on <strong>observed neural activity structure</strong> and <strong>constraints on motor adaptation</strong>.</p>
+<p><img align="left" src="../../images/control_fig.png" alt="Schematic of feedback controller in brain controlling rnn and indirectly an effector" title="Modelling recurrent network dynamics, with inputs from a feedback controller inputs, during a 2D cursor manipulation task" hspace="20px" width="50%" />
+Artificial neural networks (ANNs), trained to perform tasks analogous to those studied in neuroscience, have become a ubiquitous tool to understand how learning rules determine the emergence of task-related network dynamics (or representations). Reciprocally, existing network structre constrains the learnability of new tasks and the consequent interference (or lack thereof). I use <em>recurrent neural networks (RNNs)</em> to model motor control tasks, including the use of motor BCI (brain-computer interfaces), where feedback about the output - either as <em>“efference copy”</em> and/or <em>sensed state</em> of the effector (limb, cursor, voice) - is a critical component to successful task completion. This feedback is needed to alter network dynamics in real time, in response to noise or external perturbations, to adjust the motor output. Moreover, learning in these networks may involve changes to the feedback inputs rather than to the recurrent network structure itself, especially when the dynamics are expressive enough. Borrowing insights from work on state-feedback controllers and modelling these “controllers” using neural network architectures, I study the implications of such an organization on <strong>observed neural activity structure</strong> and <strong>constraints on adaptation</strong>.</p>
 
 <hr />
 
@@ -280,27 +280,32 @@ I use <em>recurrent neural networks (RNNs)</em> to model motor control tasks, in
 <h3 id="2a-dynamics-of-electrically-coupled-cerebellar-inhibitory-networks">2A Dynamics of electrically-coupled cerebellar inhibitory networks</h3>
 <hr />
 <h4 id="two-photon-imaging-of-golgi-cell-network-activity">Two-photon imaging of Golgi cell network activity</h4>
-<p><img align="middle" src="../../images/goc_imaging_all.png" alt=" Imaging of GCaMP6f-labelled cerebellar Golgi cells (GoCs)" title="Two-photon fluorescence microscopy in mice: Imaging of GCaMP6f-labelled cerebellar Golgi cells (GoCs)" hspace="20px" vspace="15px" width="100%" />
-To examine the organisation of inhibitory population dynamics in the cerebellar granule cell layer, I used <strong>3D random-access microscopy</strong> to monitor the activity of sparsely distributed Golgi cells. Using this approach, we desribed <strong>multidimensional GoC population activity</strong>, with both widespread and distributed components, that makes it well-suited for modulating the threshold and gain of downstream cerebellar granule cells and introducing spatiotemporal patterning.</p>
+<p><img align="left" src="../../images/goc_imaging_all.png" alt=" Imaging of GCaMP6f-labelled cerebellar Golgi cells (GoCs)" title="Two-photon fluorescence microscopy in mice: Imaging of GCaMP6f-labelled cerebellar Golgi cells (GoCs)" hspace="20px" width="60%" />
+To examine the organisation of inhibitory population dynamics in the cerebellar granule cell layer, I used <strong>3D random-access microscopy</strong> to monitor the activity of sparsely distributed Golgi cells. On slow timescales (∼seconds) GoC population activity was dominated by a <strong>network-wide modulation</strong>, which correlated with the overall level of behavioural engagement in both vermal and hemispheric regions of the cerebellar cortex. On faster timescales (hundreds of milliseconds - seconds), individual Golgi cells had <strong>differential timing and modulation around this shared mode</strong>, and this heterogeneity allowed decoding of more specific information on whisking kinematics and locomotion. This <strong>multidimensional GoC population activity</strong>, with both widespread and distributed components, is well-suited for modulating the threshold and gain of downstream cerebellar granule cells and introducing spatiotemporal patterning.</p>
+
+<h4 id="what-determines-the-degrees-of-freedom-of-these-networks">What determines the degrees of freedom of these networks?</h4>
+
+<p>Previously, the role of electrical coupling between GoCs, and the feedback loop between local GoCs and granule cells has been used to study the emergence of coherent oscillations in the granule cell layer (GCL). A critical distinction is that these studies were looking at spiketime synchrony, and mostly within a regime with rhythmic GCL activity. Yet the presence of strong feedforward inputs may transiently desynchronise the network, and coherent GCL oscillations may not exist during active behavioural states. Using a constrained biophysically-detailed model of the circuit, I further showed how multidimensional activity on the ~100s of milliseconds timescale can be observed under input statistics observed in awake and active animals. However, electrical coupling is essential to quench the population variability and amplify a network-wide mode that varies with net input drive.</p>
 
 <h4 id="dynamical-regime-changes-with-electrical-connectivity-topology">Dynamical regime changes with electrical connectivity topology</h4>
-<p><img align="right" src="../../images/goc_sync.png" alt="dynamical regime changes with electrical coupling scale" title="Role of network coupling topology for synchronizability and stability of synchrony" hspace="100px" vspace="15px" width="80%" />
-GoCs connect to each other via electrical synapses. We showed that network topology plays a role in determining the <strong>stability of synchronous spiking</strong>, as well as shaping slow dynamics. Moreover, experimentally-measured connectivity scale is close to a critical transition, resulting in <strong>long input-driven transients but ultimately stable synchrony</strong>. This allows us to posit new normative theories about the potential computational benefits of this dynamical regime.</p>
+<p><img align="right" src="../../images/goc_sync.png" alt="dynamical regime changes with electrical coupling scale" title="Role of network coupling topology for synchronizability and stability of synchrony" hspace="20px" width="40%" />
+GoC network models have been shown to exhibit transient desynchronization in response to brief external perturbations, before recovering back to the synchronous spiking state. What governs the return to the synchronous state i.e. is the synchronous state stable? We observed that network topology plays an additional role in determining the <strong>stability of synchronous spiking</strong>, in addition to shaping the slow dynamics outlined before. Moreover, experimentally-measured connectivity scale is close to a critical transition, resulting in <strong>long transients but ultimately stable synchrony</strong>. This allows us to posit new normative theories about the potential computational benefits of this dynamical regime. Given that electrical coupling is observed across many (inhibitory) networks across the brain and evolutionary tree, electrical connectivity strength and network topology act as powerful tunable properties for controlling the dynamical regimes across different networks.</p>
 
 <h3 id="2b-sensorimotor-transformation-across-the-cerebellar-circuit">2B Sensorimotor transformation across the cerebellar circuit</h3>
 <hr />
-<p><img align="left" src="../../images/dual_imaging_A_B.png" alt="Fluorescence of MFs and GoCs and their respective activity eigenspectra" title="Simultaneous imaging of excitatory inputs (pontine mossy fibre inputs) and local inhibitory neurons (GoCs) within cerebellar cortex" width="99%" vspace="15px" />
-To further understand the role of structured inhibition in cerebellar computation, I used 3D random-access microscopy to monitor the activity of mossy fibre (MF) inputs simultaneously with GoCs in multiple paradigms - spontaneous behaviors, passive auditory stimuli, and throughout the acquisition of an auditory Go/No-Go task. By examining the plasticity of MF representations as well as how the relationship between inputs and GoC network activity changes during active behaviors, we test several theoretical predictions and provide a conceptual framework for the role of inhibition in shaping cerebellar cortical representations. Indeed, this adds to the growing consensus that even the primary stage of cerebellar processing shows task-specific adaptation and efficient representations, rather than a uniformly high-dimensional code.</p>
+<p><img align="left" src="../../images/dual_imaging_A_B.png" alt="Fluorescence of MFs and GoCs and their respective activity eigenspectra" title="Simultaneous imaging of excitatory inputs (pontine mossy fibre inputs) and local inhibitory neurons (GoCs) within cerebellar cortex" width="99%" /></p>
+
+<p>To further understand the role of structured inhibition in cerebellar computation, I used 3D random-access microscopy to monitor the activity of mossy fibre (MF) inputs simultaneously with GoCs in multiple paradigms - spontaneous behaviors, passive auditory stimuli, and throughout the acquisition of an auditory Go/No-Go task. We focus on three main hypotheses (a) the link between a slow global modulation of GoCs and the net MF drive, which may adaptively adjust the gain and threshold of granule cells; (b) the emergence of lower-dimensional representations in MFs over learning; (c) selective amplification of specific task-relevant modes in distributed GoC activity, that can whiten inputs and aid decorrelated granule cell representations. By examining the plasticity of MF representations as well as how the relationship between inputs and GoC network activity changes during active behaviors, we test several theoretical predictions and provide a conceptual framework for the role of inhibition in shaping cerebellar cortical representations. Indeed, this adds to the growing consensus that even the primary stage of cerebellar processing shows task-specific adaptation and efficient representations, rather than a uniformly high-dimensional code.</p>
 
 <hr />
 
 <h2 id="3-role-of-perceptual-uncertainty-in-reward-driven-learning">3 Role of perceptual uncertainty in reward-driven learning</h2>
 <hr />
 
-<p><img align="left" src="../../images/rewlearning.jpg" alt="Q-learning with perceptual uncertainty scaling" title="Behavioral and computational signatures of decisions guided by reward value and sensory confidence" hspace="90" vspace="15px" width="800" />
-<em>(Figure reproduced from <a href="https://doi.org/10.1016/j.neuron.2019.11.018">Lak et al, Neuron 2020</a>: Behavioral and computational signatures of decisions guided by reward value and sensory confidence)</em></p>
+<p><img align="left" src="../../images/rewlearning.jpg" alt="Q-learning with perceptual uncertainty scaling" title="Behavioral and computational signatures of decisions guided by reward value and sensory confidence" hspace="20" width="550" />
+In a standard reinforcement-learning setting, expected returns are compared against true returns to modulate our learnt values and action policy. The “expected returns” or predictions are based on knowledge - or more accurately, our <em>inference</em> - of our current state, and the actions we have recently taken (“Q-value tables”). However, uncertainty about our state should be reflected as uncertainty of reward prediction error, and thus the amount of learning at that time. This state uncertainty often stems from <em>perceptual uncertainty</em> i.e. noisy or incomplete sensory information that we use for state inference. <a href="(https://doi.org/10.1016/j.neuron.2019.11.018)">Lak et al</a> studied learning of a perceptual decision making task in mice, where mice had to choose appropriate motor actions based on noisy visual cues in order to get water rewards. We modelled the improvement in task performance as a reinforcement-learning process, where we modelled value as a combination of sensory confidence and reward. Fitting these models to the behavioural data offered a parsimonious explanation of the animals’ sequence of choices and patterns of errors.</p>
 
-<p>In a standard reinforcement-learning setting, expected returns are compared against true returns to modulate our learnt values and action policy. The “expected returns” or predictions are based on knowledge - or more accurately, our <em>inference</em> - of our current state, and the actions we have recently taken (“Q-value tables”). However, uncertainty about our state should be reflected as uncertainty of reward prediction error, and thus the amount of learning at that time. This state uncertainty often stems from <em>perceptual uncertainty</em> i.e. noisy or incomplete sensory information that we use for state inference. <a href="(https://doi.org/10.1016/j.neuron.2019.11.018)">Lak et al</a> studied learning of a perceptual decision making task in mice, where mice had to choose appropriate motor actions based on noisy visual cues in order to get water rewards. We modelled the improvement in task performance as a reinforcement-learning process, where we modelled value as a combination of sensory confidence and reward. Fitting these models to the behavioural data offered a parsimonious explanation of the animals’ sequence of choices and patterns of errors.</p>
+<p><em>(Figure from <a href="https://doi.org/10.1016/j.neuron.2019.11.018">Lak et al, Neuron 2020</a>: Behavioral and computational signatures of decisions guided by reward value and sensory confidence)</em></p>
 
 <hr />
 
