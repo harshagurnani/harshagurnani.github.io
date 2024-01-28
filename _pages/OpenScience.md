@@ -11,7 +11,7 @@ Please refer to the [Publications page](/publications/) for access to pdf+data/c
 ### Additional resources
  
 - Silverlab imaging acquisition software - For AOL-based scanning and pointing [[link]](https://github.com/SilverLabUCL/SilverLab-Microscope-Software) 
-- Preprocessing of Silverlab imaging data [[link: GoCs]](https://github.com/harshagurnani/CaDataAnalysis_GoC)  [[link2]](https://github.com/SilverLabUCL/CalcDataAnalysis)
+- Preprocessing of calcium imaging data (Silverlab AOL-RAM scope) [[link: GoCs]](https://github.com/harshagurnani/CaDataAnalysis_GoC)  [[link2]](https://github.com/SilverLabUCL/CalcDataAnalysis)
 - GoC Network Model in Gurnani and Silver, 2021 [[link]](https://github.com/harshagurnani/GoC_Network_Sim_BehInputs)
 - Basic network model for electrically-coupled GoCs [[link]](https://github.com/harshagurnani/GoCModel_Basic)
 - Protocols for Reward Conditioning task [[link]](https://github.com/SilverLabUCL/RewardConditioning)
