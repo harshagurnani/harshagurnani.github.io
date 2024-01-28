@@ -16,4 +16,6 @@ author_profile: true
 4. Armin Lak\*, Michael Okun, Morgane M Moss, **Harsha Gurnani**, Karolina Farrell, Miles J Wells, Charu Bai Reddy, Adam Kepecs, Kenneth D Harris, Matteo Carandini. __Dopaminergic and prefrontal basis of learning from sensory confidence and reward value__ (2020).  *Neuron* .  [[pdf]](http://harshagurnani.github.io/files/Laketal_2020.pdf)  [[link]](https://doi.org/10.1016/j.neuron.2019.11.018)
 
 ### Preprints
-5. Armin Lak\*, Michael Okun, Morgane Moss, **Harsha Gurnani**, Miles J Wells, Charu Bai Reddy, Kenneth D Harris, Matteo Carandini. __Dopaminergic and frontal signals for decisions guided by sensory evidence and reward value__ (2019).  *bioRxiv* .  [[pdf]](https://www.biorxiv.org/content/biorxiv/early/2018/09/07/411413.1.full.pdf)  [[link]](https://doi.org/10.1101/411413)
+5. Ankur Sinha, Padraig Gleeson, Boris Marin, Salvador Dura-Bernal, Sotirios Panagiotou, Sharon Crook, Matteo Cantarelli, Robert C Cannon, Andrew P Davison, Harsha Gurnani, R Angus Silver. __The NeuroML ecosystem for standardized multi-scale modeling in neuroscience__ (2023). *bioRxiv* [[link]](https://www.biorxiv.org/content/10.1101/2023.12.07.570537v1.abstract)
+
+6. Armin Lak\*, Michael Okun, Morgane Moss, **Harsha Gurnani**, Miles J Wells, Charu Bai Reddy, Kenneth D Harris, Matteo Carandini. __Dopaminergic and frontal signals for decisions guided by sensory evidence and reward value__ (2019).  *bioRxiv* .  [[pdf]](https://www.biorxiv.org/content/biorxiv/early/2018/09/07/411413.1.full.pdf)  [[link]](https://doi.org/10.1101/411413)
