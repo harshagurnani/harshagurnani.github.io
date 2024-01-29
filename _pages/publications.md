@@ -4,6 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+Please refer to my [Google scholar](https://scholar.google.com/citations?user=2udZF9sAAAAJ&hl=en) page for an up-to-date list of publications.
 
 ### Peer-reviewed publications
 
