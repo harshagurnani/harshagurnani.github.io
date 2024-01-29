@@ -10,7 +10,7 @@ redirect_from:
 
 <img align="right" src="/images/cricket.png" alt="Hand ready to catch ball" hspace=20px width="50%" />
 
-I am a Schmidt science postdoctoral fellow in neuroscience. I am broadly interested in the __multiple ways we learn__  - combining observations and guesses, as specific rules or general concepts, motivated by reward or internal goals. This learning is ultimately enabled and implemented via circuits in our brain - how does the architecture and activity of relevant brain regions allow us to exploit the structure of "the world as it is", while remaining enormously flexible, allowing us to learn to use new tools and concepts that human creativity continually produces?
+I am a Schmidt Science postdoctoral fellow in neuroscience. I am broadly interested in the __multiple ways we learn__  - combining observations and guesses, as specific rules or general concepts, motivated by reward or internal goals. This learning is ultimately enabled and implemented via circuits in our brain - how does the architecture and activity of relevant brain regions allow us to exploit the structure of "the world as it is", while remaining enormously flexible, allowing us to learn to use new tools and concepts that human creativity continually produces?
 
 __Contact__: harsha84(at)uw.edu
 
@@ -35,7 +35,7 @@ I am currently a postdoctoral fellow with [Prof Bing Brunton](https://www.bingbr
 My current project explores the __control of recurrent neural dynamics__ (such as activity in motor cortex) via feedback inputs, and the role of __flexible feedback modulation in motor adaptation__. This may helps us better dissect the mechanisms of short-term adaptation versus long-term learning, and guide the design of more learnable brain-computer interfaces as rehabilitative devices.
 
 ## Previously:
-I obtained my PhD with [Prof Angus Silver](https://silverlab.org/) at University College London, funded by a Wellcome Trust PhD studentship, where I examined neural activity in the cerebellar input layer, with a focus on inhibitory Golgi cells and the multiple roles of electrical coupling. I focussed on two main questions:
+I obtained my PhD with [Prof Angus Silver](https://silverlab.org/) at University College London, funded by a Wellcome Trust PhD studentship. I examined neural activity in the cerebellar input layer, with a focus on inhibitory Golgi cells and the multiple roles of electrical coupling. I focussed on two main questions:
 
 1. What is the __dynamical regime of electrically coupled networks__, and how is this determined by the connectivity structure and input statistics?
 
