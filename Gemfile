@@ -16,6 +16,19 @@ source "https://rubygems.org"
 # If you want to use Jekyll native, uncomment the line below.
 # To upgrade, run `bundle update`.
 
+gem 'public_suffix', '4.0.7'
+gem 'addressable', '2.8.0'
+gem 'concurrent-ruby', '1.2.0'
+gem 'faraday', '2.7.10'
+gem 'ffi', '1.15.5'
+gem 'i18n', '0.9.5'
+gem 'rb-fsevent', '0.11.1'
+gem 'listen', '3.7.1'
+gem 'rexml', '3.2.5'
+gem 'kramdown', '2.3.2'
+gem 'liquid', '5.4.0'
+gem 'rouge', '3.26.0'
+
 gem "jekyll"
 gem 'jekyll-paginate'
 gem 'jekyll-gist'
