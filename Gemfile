@@ -4,7 +4,7 @@ source "https://rubygems.org"
 # When you want to use a different version, change it below, save the
 # file and run `bundle install`. Run Jekyll with `bundle exec`, like so:
 #
-ruby File.read(".ruby-version").strip
+#ruby File.read(".ruby-version").strip
 
 #bundle exec jekyll serve #     
 #
@@ -37,7 +37,7 @@ group :jekyll_plugins do
   gem 'jekyll-readme-index'
   gem 'jekyll-optional-front-matter'
   gem 'jekyll-relative-links'
-  
+
   gem 'jekyll-coffeescript'
   gem 'jekyll-theme-primer'
   gem 'jekyll-seo-tag'
