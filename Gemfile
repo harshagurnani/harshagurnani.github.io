@@ -26,7 +26,7 @@ gem 'rb-fsevent', '0.11.1'
 gem 'listen', '3.7.1'
 gem 'rexml', '3.2.5'
 gem 'kramdown', '2.3.2'
-gem 'liquid', '5.4.0'
+gem 'liquid', '~> 4.0'
 gem 'rouge', '3.26.0'
 
 gem "jekyll"
