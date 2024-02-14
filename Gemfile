@@ -34,22 +34,22 @@ gem 'jekyll-coffeescript', '2.0.0'
 gem 'jekyll-feed', '0.15.1'
 gem 'webrick', '1.8.1'
 
-gem "jekyll"
+#gem "jekyll"
 gem 'jekyll-paginate'
 gem 'jekyll-gist'
 gem 'octokit'
 gem 'jekyll-redirect-from'
 gem 'kramdown-parser-gfm'
-gem 'webrick'
+#gem 'webrick'
 
 gem "wdm", "~> 0.1.0" if Gem.win_platform?
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do
   # gem "jekyll-archives"
-  gem "jekyll-feed"
-  gem 'jekyll-sitemap'
-  gem 'hawkins'
+  # gem "jekyll-feed"
+  #gem 'jekyll-sitemap'
+  #gem 'hawkins'
   
 
 # gem install nokogiri
