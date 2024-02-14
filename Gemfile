@@ -23,6 +23,14 @@ gem 'octokit'
 gem 'jekyll-redirect-from'
 gem 'kramdown-parser-gfm'
 gem 'webrick'
+gem "jekyll-feed"
+gem 'jekyll-sitemap'
+gem 'hawkins'
+gem 'jekyll-titles-from-headings'
+gem 'jekyll-default-layout'
+gem 'jekyll-readme-index'
+gem 'jekyll-optional-front-matter'
+gem 'jekyll-relative-links'
 
 gem "wdm", "~> 0.1.0" if Gem.win_platform?
 
