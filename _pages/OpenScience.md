@@ -5,7 +5,6 @@ permalink: /opensci/
 author_profile: true
 ---
 
-Science is not just the end product of the scientific process, but a whole ecosystem of knowledge - methodology, data, tools. Freely and openly sharing these resources not just increases scientific reproducibility and collective understanding, but is a practice of inclusivity, sustainability, and fairness.
 
 Please refer to the [Publications page](/publications/) for access to pdf+data/code of peer-reviewed articles.
 

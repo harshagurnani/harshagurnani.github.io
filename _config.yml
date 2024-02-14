@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Harsha Gurnani, PhD"
   avatar           : "seattle.jpg"
-  bio              : "Schmidt Science fellow at University of Washington. Interested in neural dynamics, control, learning"
+  bio              : "Postdoctoral fellow at UW. Neural dynamics, control, learning"
   location         : "Seattle"
   employer         : 
   pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=harsha+gurnani"
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "https://orcid.org/0000-0001-6383-3104"
+  orcid            : ""
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
