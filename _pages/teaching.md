@@ -4,6 +4,7 @@ title: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---
+Teaching is one of my favorite parts of the academic profession, and a service I hope to be able to continue. Watching that spark of understanding in others is a joy. But as educators, we also have a big responsibility towards students, towards ensuring equitable outcomes, opportunities and practices, and ensuring that students of all backgrounds can thrive. I will soon put up a list of resources on inclusive and student-centred pedagogy that I have found to be useful.
 
 ## Courses and workshops
 1. [2021]	Teaching Assistant (TA) for *BIOL0029: Computational Biology*, UCL [(link)](https://moodle.ucl.ac.uk/course/info.php?id=623)

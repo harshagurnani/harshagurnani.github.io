@@ -5,7 +5,6 @@ permalink: /opensci/
 author_profile: true
 ---
 
-
 Please refer to the [Publications page](/publications/) for access to pdf+data/code of peer-reviewed articles.
 
 ### Additional resources
