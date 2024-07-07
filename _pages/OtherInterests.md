@@ -50,16 +50,16 @@ I have a strong preference for languid, introspective films - conversations fill
 And some moments of peace among the hills!
 From top to bottom: View of Loch Lomond in Trossachs National Park in Scotland, Pen y Fan in Brecon Beacons in Wales, Helvellyn Ridge in Lake District in Northern England, and Lake Valhalla in Okanogan-Wenatchee National Forest in Washington. And lastly, the realities of hiking in the UK!
 
-<img align="middle" src="../../images/trossachs.png" alt="Unusually clear day in Scotland Trossachs." hspace=20px vspace=15px width="100%" />
+<img align="middle" src="../images/trossachs.jpg" alt="Unusually clear day in Scotland Trossachs." hspace=20px vspace=15px width="100%" />
 
-<img align="middle" src="../../images/brecon.png" alt="Cloudy and foggy morning in the hills in Brecon Beacons." hspace=20px vspace=15px width="100%" />
-
-
-<img align="middle" src="../../images/peaks.png" alt="Dangerously perched on the Helvellyn ridge despite my fear of heights." hspace=20px vspace=15px width="100%" />
+<img align="middle" src="../images/brecon.jpg" alt="Cloudy and foggy morning in the hills in Brecon Beacons." hspace=20px vspace=15px width="100%" />
 
 
-<img align="middle" src="../../images/lakevalhalla.png" alt="Beautiful view of early fall colors and mountain lake near Seattle." hspace=20px vspace=15px width="100%" />
+<img align="middle" src="../images/peaks.jpg" alt="Dangerously perched on the Helvellyn ridge despite my fear of heights." hspace=20px vspace=15px width="100%" />
 
 
-<img align="middle" src="../../images/ukhike.png" alt="Rain-soaked in Scotland." hspace=20px vspace=15px width="100%" />
+<img align="middle" src="../images/lakevalhalla.jpg" alt="Beautiful view of early fall colors and mountain lake near Seattle." hspace=20px vspace=15px width="100%" />
+
+
+<img align="middle" src="../images/ukhike.jpg" alt="Rain-soaked in Scotland." hspace=20px vspace=15px width="100%" />
 
