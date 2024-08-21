@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-I am interested in the interaction of multiple learning pathways, both from an algorithmic perspective, as well as uncovering the multi-regional circuits that underlie learning. I am also interested in the neural dynamics that emerge over learning to support new task-relevant computations. For my future work, I aim to investigate cortico-cerebellar interactions, with a focus on how feedback - sensory and internal feedback loops - can flexibly modulate effective cortical dynamics, and how these input-driven dynamics are learnt via multiple forms of errors.
+I am interested in the interaction of multiple learning pathways, both from an algorithmic perspective, as well as uncovering the multi-regional circuits that underlie learning. I am also interested in the neural dynamics that emerge over learning to support new task-relevant computations, with a focus on how feedback - sensory and internal feedback loops - can flexibly modulate effective cortical dynamics, and how these input-driven dynamics are learnt via multiple forms of errors.
 
 ### List of Projects:
 1. [Feedback control of Cortical Dynamics](#1-feedback-control-of-cortical-dynamics)
@@ -13,6 +13,9 @@ I am interested in the interaction of multiple learning pathways, both from an a
     - [Dynamics of electrically-coupled cerebellar inhibitory networks](#2a-dynamics-of-electrically-coupled-cerebellar-inhibitory-networks)
     - [Sensorimotor transformation across the cerebellar circuit](#2b-sensorimotor-transformation-across-the-cerebellar-circuit)
 3. [Role of perceptual uncertainty in reward-driven learning](#3-role-of-perceptual-uncertainty-in-reward-driven-learning)
+4. [Other projects](#4-ongoing-projects)
+   - Learning without plasticity
+   - Active learning for closed-loop experiments
 
 ## 1 Feedback control of Cortical Dynamics
 ---------------------------------------------------------
@@ -55,7 +58,16 @@ _(Figure reproduced from [Lak et al, Neuron 2020](https://doi.org/10.1016/j.neur
 
 In a standard reinforcement-learning setting, expected returns are compared against true returns to modulate our learnt values and action policy. The "expected returns" or predictions are based on knowledge - or more accurately, our _inference_ - of our current state, and the actions we have recently taken ("Q-value tables"). However, uncertainty about our state should be reflected as uncertainty of reward prediction error, and thus the amount of learning at that time. This state uncertainty often stems from _perceptual uncertainty_ i.e. noisy or incomplete sensory information that we use for state inference. [Lak et al]((https://doi.org/10.1016/j.neuron.2019.11.018)) studied learning of a perceptual decision making task in mice, where mice had to choose appropriate motor actions based on noisy visual cues in order to get water rewards. We modelled the improvement in task performance as a reinforcement-learning process, where we modelled value as a combination of sensory confidence and reward. Fitting these models to the behavioural data offered a parsimonious explanation of the animals' sequence of choices and patterns of errors. 
 
+---------------------------------------------------------
 
+## 4 Ongoing Projects
+---------------------------------------------------------
+
+### Learning without Plasticity
+Animals and humans show a remarkable ability to adaptively remap sensory flow into volitional movements, on timescales of seconds, minutes and hours. Much of this fast learning relies on activity-dependent processes - contextual and structure inference, input-driven reorganization of dynamics, and flexible association between brain areas. I am using network models and multi-region data to develop a theoretical and biological understanding of such learning without plasticity.
+
+### Active learning for closed-loop experiments
+Recent technological developments are increasing our ability to flexibly and dynamically manipulate large neural populations at a fine resolution. Such flexibility in the design of the spatiotemporal pattern of stimulation leads to a very high-dimensional control problem, which is not amenable to be solved by manual search. The challenge is further exacerbated by the complex neural connectivity and dynamics, which yield highly nonlinear and time-varying responses even to simple stimulation inputs, such as an impulse. In collaboration with Juncal Arbelaiz at Princeton University, I will use systems identification and optimization techniques for both "control for learning" and "learning to control" neural dynamics.
 
 
 
