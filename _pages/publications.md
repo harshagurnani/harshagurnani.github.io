@@ -17,7 +17,7 @@ Please refer to my [Google scholar](https://scholar.google.com/citations?user=2u
 4. Armin Lak\*, Michael Okun, Morgane M Moss, **Harsha Gurnani**, Karolina Farrell, Miles J Wells, Charu Bai Reddy, Adam Kepecs, Kenneth D Harris, Matteo Carandini. __Dopaminergic and prefrontal basis of learning from sensory confidence and reward value__ (2020).  *Neuron* .  [[pdf]](http://harshagurnani.github.io/files/Laketal_2020.pdf)  [[link]](https://doi.org/10.1016/j.neuron.2019.11.018)
 
 ### Preprints
-5. **Harsha Gurnani**\*, Weixuan Liu, Bing W Brunton. __Feedback control of recurrent dynamics constrains learning timescales during motor adaptation__ (2024). *bioRxiv*. [[link]](https://doi.org/10.1101/2024.05.24.595772) 
+5. **Harsha Gurnani**\*, Weixuan Liu, Bing W Brunton. __Feedback control of recurrent dynamics constrains learning timescales during motor adaptation__ (2024). *bioRxiv* [[link]](https://doi.org/10.1101/2024.05.24.595772) [[code]](https://github.com/harshagurnani/FeedbackControlledRNN)
 
 6. Ankur Sinha*, Padraig Gleeson*, Boris Marin, Salvador Dura-Bernal, Sotirios Panagiotou, Sharon Crook, Matteo Cantarelli, Robert C Cannon, Andrew P Davison, Harsha Gurnani, R Angus Silver. __The NeuroML ecosystem for standardized multi-scale modeling in neuroscience__ (2023). *bioRxiv* [[link]](https://www.biorxiv.org/content/10.1101/2023.12.07.570537v1.abstract)
 
