@@ -64,4 +64,3 @@ From top to bottom: View of Loch Lomond in Trossachs National Park in Scotland, 
 
 
 <img align="middle" src="../images/ukhike.jpg" alt="Rain-soaked in Scotland." hspace=20px vspace=15px width="100%" />
-

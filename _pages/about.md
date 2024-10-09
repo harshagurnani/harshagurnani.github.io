@@ -24,7 +24,7 @@ I am interested in forms of __error-driven learning__ (e.g. sensory- and reward-
 
 I also study how related neural dynamics support the rapid and __flexible updating of internal representations__ on slow (hours) and fast (sub-second) timescales.
 
-I  use a variety of experimental and quantitative approaches - __neural recording and perturbation__ tools, __behavioural assays__ in rodents, __neural network models__, and __statistical analysis__ of high-dimensional data.
+I  use a variety of experimental and quantitative approaches - __neural recording and perturbation__ tools, __behavioural assays__ in rodents, __neural network models__, __deep learning__, and __statistical analysis__ of high-dimensional data.
 
 
 
