@@ -46,6 +46,8 @@ I have a strong preference for languid, introspective films - conversations fill
 
 - [Fallen Leaves](https://mubi.com/en/us/films/fallen-leaves-2023) by Aki Kaurismäki. Perseverance presents itself in delicate and comedic ways. With wonderful use of color, music and brilliantly understated acting.
 
+- [So Long My Son](https://mubi.com/en/us/films/so-long-my-son) and [Drive My Car](https://mubi.com/en/us/films/drive-my-car) - two astonishingly beautiful takes on grief and memory.
+
 ### Hiking
 And some moments of peace among the hills!
 From top to bottom: View of Loch Lomond in Trossachs National Park in Scotland, Pen y Fan in Brecon Beacons in Wales, Helvellyn Ridge in Lake District in Northern England, and Lake Valhalla in Okanogan-Wenatchee National Forest in Washington. And lastly, the realities of hiking in the UK!
