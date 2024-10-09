@@ -5,9 +5,9 @@ permalink: /nonsci/
 author_profile: true
 ---
 
-When I'm not reading neuroscience or mathematics, I'm enjoying modern art - fiction, poetry, visual arts -, listening to podcasts, watching cinema, and occasionally on a hike!
+When I'm not reading neuroscience or mathematics, I'm enjoying modern art - fiction, poetry, visual arts -, listening to podcasts, watching cinema, or on a hike!
 
-Here are some recommendations, arbitrarily updated at times based on a Poisson process...
+Here are some recommendations, arbitrarily updated at times based on a Poisson process... (or check on [Goodreads](https://www.goodreads.com/user/show/29608337-harsha-gurnani) or [Mubi](https://mubi.com/en/users/8800427))
 
 ### Literature
 - [The Waves](https://www.goodreads.com/book/show/46114.The_Waves_) by Virginia Woolf. 
@@ -17,7 +17,7 @@ A patchwork of moments and perspectives, solitary and shared, is all that life i
 This book, the lyricism, the melancholy will haunt my soul for a while..
 
 - [The Price of Peace](https://www.goodreads.com/book/show/49644992-the-price-of-peace) by Zachary D. Carter. 
-A biography of John Maynard Keynes - his intellectual, political and economic legacy, his contributions to American and British wartime and inter-war rebuilding efforts, his love for the arts, and how neoliberalism dissolved the hope for a fairer world by (for now) beating even his moderate socialism.
+A biography of John Maynard Keynes - his intellectual, political and economic legacy, his contributions to American and British wartime and inter-war rebuilding efforts, his love for the arts, and how neoliberalism dissolved the hope for a fairer world by (for now) beating even this version of moderate socialism.
 
 - [Capital and Ideology](https://www.goodreads.com/book/show/50849430-capital-and-ideology) or [Capital in the Twenty-First Century](https://www.goodreads.com/book/show/18736925-capital-in-the-twenty-first-century) by Thomas Piketty on the nature of political economies. 
 Choose the former if you are interested in historical accounts of how different material and ideological factors created the different economic structures across civilizations and time. Choose the latter if you want to have empirically-backed arguments about inequality and concentration of wealth in the 21st century.
@@ -46,6 +46,8 @@ I have a strong preference for languid, introspective films - conversations fill
 
 - [Fallen Leaves](https://mubi.com/en/us/films/fallen-leaves-2023) by Aki Kaurismäki. Perseverance presents itself in delicate and comedic ways. With wonderful use of color, music and brilliantly understated acting.
 
+- [So Long My Son](https://mubi.com/en/us/films/so-long-my-son) and [Drive My Car](https://mubi.com/en/us/films/drive-my-car) - two astonishingly beautiful takes on grief and memory.
+
 ### Hiking
 And some moments of peace among the hills!
 From top to bottom: View of Loch Lomond in Trossachs National Park in Scotland, Pen y Fan in Brecon Beacons in Wales, Helvellyn Ridge in Lake District in Northern England, and Lake Valhalla in Okanogan-Wenatchee National Forest in Washington. And lastly, the realities of hiking in the UK!
@@ -62,4 +64,3 @@ From top to bottom: View of Loch Lomond in Trossachs National Park in Scotland, 
 
 
 <img align="middle" src="../images/ukhike.jpg" alt="Rain-soaked in Scotland." hspace=20px vspace=15px width="100%" />
-
