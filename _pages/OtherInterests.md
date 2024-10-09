@@ -50,17 +50,19 @@ I have a strong preference for languid, introspective films - conversations fill
 
 ### Hiking
 And some moments of peace among the hills!
-From top to bottom: View of Loch Lomond in Trossachs National Park in Scotland, Pen y Fan in Brecon Beacons in Wales, Helvellyn Ridge in Lake District in Northern England, and Lake Valhalla in Okanogan-Wenatchee National Forest in Washington. And lastly, the realities of hiking in the UK!
+From top to bottom, left to right: Mt Rainier at the aptly named Paradise in Washinton, view of Loch Lomond in Trossachs National Park in Scotland, Pen y Fan in Brecon Beacons in Wales, Helvellyn Ridge in Lake District in Northern England, and Lake Valhalla in Okanogan-Wenatchee National Forest in Washington. And lastly, the realities of hiking in the UK!
 
-<img align="middle" src="../images/trossachs.jpg" alt="Unusually clear day in Scotland Trossachs." hspace=20px vspace=15px width="100%" />
+<img align="middle" src="../images/trossachs.jpg" alt="Fall colors of alpine meadows and snow-capped mountain in Rainier." hspace=20px vspace=15px width="45%" />
 
-<img align="middle" src="../images/brecon.jpg" alt="Cloudy and foggy morning in the hills in Brecon Beacons." hspace=20px vspace=15px width="100%" />
+<img align="middle" src="../images/trossachs.jpg" alt="Unusually clear day in Scotland Trossachs." hspace=20px vspace=15px width="45%" />
 
-
-<img align="middle" src="../images/peaks.jpg" alt="Dangerously perched on the Helvellyn ridge despite my fear of heights." hspace=20px vspace=15px width="100%" />
-
-
-<img align="middle" src="../images/lakevalhalla.jpg" alt="Beautiful view of early fall colors and mountain lake near Seattle." hspace=20px vspace=15px width="100%" />
+<img align="middle" src="../images/brecon.jpg" alt="Cloudy and foggy morning in the hills in Brecon Beacons." hspace=20px vspace=15px width="45%" />
 
 
-<img align="middle" src="../images/ukhike.jpg" alt="Rain-soaked in Scotland." hspace=20px vspace=15px width="100%" />
+<img align="middle" src="../images/peaks.jpg" alt="Dangerously perched on the Helvellyn ridge despite my fear of heights." hspace=20px vspace=15px width="45%" />
+
+
+<img align="middle" src="../images/lakevalhalla.jpg" alt="Beautiful view of early fall colors and mountain lake near Seattle." hspace=20px vspace=15px width="45%" />
+
+
+<img align="middle" src="../images/ukhike.jpg" alt="Rain-soaked in Scotland." hspace=20px vspace=15px width="45%" />
