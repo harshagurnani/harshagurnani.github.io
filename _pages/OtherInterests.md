@@ -7,7 +7,7 @@ author_profile: true
 
 When I'm not reading neuroscience or mathematics, I'm enjoying modern art - fiction, poetry, visual arts -, listening to podcasts, watching cinema, or on a hike!
 
-Here are some recommendations, arbitrarily updated at times based on a Poisson process... (or check on [Goodreads](https://www.goodreads.com/user/show/29608337-harsha-gurnani) or [Mubi](https://mubi.com/en/lists/best-of-1475c6c6-ba57-434a-aea1-803429584a71))
+Here are some recommendations, arbitrarily updated at times based on a Poisson process... (or check on [Goodreads](https://www.goodreads.com/user/show/29608337-harsha-gurnani) or [Mubi](https://mubi.com/en/users/8800427/lists))
 
 ### Literature
 - [The Waves](https://www.goodreads.com/book/show/46114.The_Waves_) by Virginia Woolf. 
