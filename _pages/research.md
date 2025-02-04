@@ -9,11 +9,12 @@ I am interested in the interaction of multiple learning pathways, both from an a
 
 ### List of Projects:
 1. [Feedback control of Cortical Dynamics](#1-feedback-control-of-cortical-dynamics)
-2. [Population dynamics in the cerebellar cortex](#2-population-dynamics-in-the-cerebellar-cortex)
-    - [Dynamics of electrically-coupled cerebellar inhibitory networks](#2a-dynamics-of-electrically-coupled-cerebellar-inhibitory-networks)
-    - [Sensorimotor transformation across the cerebellar circuit](#2b-sensorimotor-transformation-across-the-cerebellar-circuit)
-3. [Role of perceptual uncertainty in reward-driven learning](#3-role-of-perceptual-uncertainty-in-reward-driven-learning)
-4. [Other projects](#4-ongoing-projects)
+2. 
+3. [Population dynamics in the cerebellar cortex](#3-population-dynamics-in-the-cerebellar-cortex)
+    - [Dynamics of electrically-coupled cerebellar inhibitory networks](#3a-dynamics-of-electrically-coupled-cerebellar-inhibitory-networks)
+    - [Sensorimotor transformation across the cerebellar circuit](#3b-sensorimotor-transformation-across-the-cerebellar-circuit)
+4. [Role of perceptual uncertainty in reward-driven learning](#4-role-of-perceptual-uncertainty-in-reward-driven-learning)
+5. [Other projects](#5-ongoing-projects)
    - Learning without plasticity
    - Active learning for closed-loop experiments
 
@@ -21,17 +22,23 @@ I am interested in the interaction of multiple learning pathways, both from an a
 ---------------------------------------------------------
 <img align="left" src="../../images/control_fig.png" alt="Schematic of feedback controller in brain controlling rnn and indirectly an effector" title="Modelling recurrent network dynamics, with inputs from a feedback controller inputs, during a 2D cursor manipulation task" hspace=20px vspace=20px width="70%" />
 I use _recurrent neural networks (RNNs)_ to model motor control tasks, including the use of motor BCI (brain-computer interfaces), where feedback about the output - either as _"efference copy"_ and/or _sensed state_ of the effector (limb, cursor, voice) - is a critical component to successful task completion. This feedback is needed to alter network dynamics in real time, in response to noise or external perturbations, to adjust the motor output. Moreover, learning in these networks may involve changes to the feedback inputs rather than to the recurrent network structure itself, especially when the dynamics are expressive enough. Borrowing insights from work on state-feedback controllers and modelling these "controllers" using neural network architectures, I study the implications of such an organization on __observed neural activity structure__ and __constraints on motor adaptation__.
+---------------------------------------------------------
+
+## 2 Data-driven models for control of biomechanical bodies 
+---------------------------------------------------------
+<img align="left" src="../../images/biomech.png" alt="Neural network controller of biomechanical bodies simulated in physics engines, with realistic encoding of sensory feedback" title="" hspace=20px vspace=20px width="30%" />
+Neuroscientists have long studied central pattern generators (CPGs) that generate oscillatory activity patterns for rhythmic motor outputs, such as for limbed locomotion. However, when a walking animal encounters an unexpected perturbation (e.g. uneven terrain, being pushed), it must integrate feedback from proprioceptive sensory neurons with ongoing rhythmic feedforward commands to adjust, recover, and sustain walking. I am using a data-driven integrative modeling approach to identify neural computations underlying robust locomotion in Drosophila (fruit fly model system) - modular neural network controllers, with biologically grounded models of proprioceptive sensing, controlling biomechanical models simulated with physics engines, and trained using imitation learning to produce realistic 3D kinematics. By manipulating the activity of proprioceptive neurons in silico and quantifying altered kinematics in these closed-loop models, I am able to identify the role of different classes of sensory feedback (joint positions, joint velocity, contact) in shaping walking behavior. In collaboration with John Tuthill at UW, I am also comparing these predictions to behavioral responses of actual walking flies to optogenetic activation of sensory neurons.
 
 ---------------------------------------------------------
 
-## 2 Population dynamics in the cerebellar cortex
+## 3 Population dynamics in the cerebellar cortex
 ---------------------------------------------------------
 The cerebellum - an important locus for motor learning and sensorimotor coordination - interacts reciprocally with the neocortex via disynaptic pathways. Cortico-pontine inputs enter the first stage of cerebellar processing as mossy fibre (MF) terminals, where expansion recoding at granule cells (GrCs) is suggested to transform these inputs into more learnable and separable representations. However, granule cell activity is critically regulated by a small but powerful inhibitory network of __Golgi cells (GoCs)__, which have been implicated in both homeostatic scaling and regulating GrC activity sparseness, dimensionality and spike timing.
 
 During my PhD, I studied the __spatiotemporal structure of GoC network activity__, along with its relation to the feedforward mossy fibre inputs, to resolve how a small __electrically-coupled network__ may perform _such varied computational roles_.
 
 
-### 2A Dynamics of electrically-coupled cerebellar inhibitory networks
+### 3A Dynamics of electrically-coupled cerebellar inhibitory networks
 ---------------------------------------------------------
 #### Two-photon imaging of Golgi cell network activity
 <img align="middle" src="../../images/goc_imaging_all.png" alt=" Imaging of GCaMP6f-labelled cerebellar Golgi cells (GoCs)" title="Two-photon fluorescence microscopy in mice: Imaging of GCaMP6f-labelled cerebellar Golgi cells (GoCs)" hspace=20px vspace=15px width="100%" />
@@ -43,14 +50,14 @@ GoCs connect to each other via electrical synapses. We showed that network topol
 
 
 
-### 2B Sensorimotor transformation across the cerebellar circuit
+### 3B Sensorimotor transformation across the cerebellar circuit
 ---------------------------------------------------------
 <img align="left" src="../../images/dual_imaging_A_B.png" alt="Fluorescence of MFs and GoCs and their respective activity eigenspectra" title="Simultaneous imaging of excitatory inputs (pontine mossy fibre inputs) and local inhibitory neurons (GoCs) within cerebellar cortex" width="99%" vspace=15px />
 To further understand the role of structured inhibition in cerebellar computation, I used 3D random-access microscopy to monitor the activity of mossy fibre (MF) inputs simultaneously with GoCs in multiple paradigms - spontaneous behaviors, passive auditory stimuli, and throughout the acquisition of an auditory Go/No-Go task. By examining the plasticity of MF representations as well as how the relationship between inputs and GoC network activity changes during active behaviors, we test several theoretical predictions and provide a conceptual framework for the role of inhibition in shaping cerebellar cortical representations. Indeed, this adds to the growing consensus that even the primary stage of cerebellar processing shows task-specific adaptation and efficient representations, rather than a uniformly high-dimensional code.
 
 ---------------------------------------------------------
 
-## 3 Role of perceptual uncertainty in reward-driven learning
+## 4 Role of perceptual uncertainty in reward-driven learning
 ---------------------------------------------------------
 
 <img align="left" src="../../images/rewlearning.jpg" alt="Q-learning with perceptual uncertainty scaling" title="Behavioral and computational signatures of decisions guided by reward value and sensory confidence" hspace="90" vspace=15px width=800 />
@@ -60,7 +67,7 @@ In a standard reinforcement-learning setting, expected returns are compared agai
 
 ---------------------------------------------------------
 
-## 4 Ongoing Projects
+## 5 Ongoing Projects
 ---------------------------------------------------------
 
 ### Learning without Plasticity
