@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<img align="right" src="/images/cricket.png" alt="Hand ready to catch ball" hspace=20px width="50%" />
+<img align="right" src="/images/cricket.png" alt="Hand ready to catch ball" hspace=20px width="30%" />
 
 I am a [Schmidt Science postdoctoral fellow](https://schmidtsciencefellows.org/fellows/?fellow-keyword=&fellow-year=2022&filter=true) in neuroscience. I am broadly interested in the __multiple ways we learn__  - combining observations and guesses, as specific rules or general concepts, motivated by reward or internal goals. This learning is ultimately enabled and implemented via circuits in our brain - how does the architecture and activity of relevant brain regions allow us to exploit the structure of "the world as it is", while remaining enormously flexible, allowing us to learn to use new tools and concepts that human creativity continually produces?
 
