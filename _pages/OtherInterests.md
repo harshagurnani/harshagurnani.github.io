@@ -50,7 +50,7 @@ I have a strong preference for languid, introspective films - conversations fill
 
 ### Hiking
 And some moments of peace among the hills!
-From top to bottom, left to right: Mt Rainier at the aptly named Paradise in Washinton, view of Loch Lomond in Trossachs National Park in Scotland, Pen y Fan in Brecon Beacons in Wales, Helvellyn Ridge in Lake District in Northern England, and Lake Valhalla in Okanogan-Wenatchee National Forest in Washington. And lastly, the realities of hiking in the UK!
+From top to bottom, left to right: Mt Rainier at the aptly named Paradise in Washington, view of Loch Lomond in Trossachs National Park in Scotland, Pen y Fan in Brecon Beacons in Wales, Helvellyn Ridge in Lake District in Northern England, and Lake Valhalla in Okanogan-Wenatchee National Forest in Washington. And lastly, the realities of hiking in the UK!
 
 <p>
   <img align="middle" src="../images/paradise2024.jpg" alt="Fall colors of alpine meadows and snow-capped mountain in Rainier." vspace=5px width="45%" />
