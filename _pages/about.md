@@ -22,9 +22,11 @@ I am interested in forms of __error-driven learning__ (e.g. sensory- and reward-
 - _feedback_ (via sensory experiences), and 
 - _internal models_ (models of the world and body that allow us to predict the consequences of our actions, to plan and to simulate). 
 
-I also study how related neural dynamics support the rapid and __flexible updating of internal representations__ on slow (hours) and fast (sub-second) timescales.
+I link computational descriptions of learning to mechanistic and algorithmic accounts of how related neural _dynamics_ support the __rapid and flexible updating of internal representations__ on slow (hours) and fast (sub-second) timescales.
 
-I  use a variety of experimental and quantitative approaches - __neural recording and perturbation__ tools, __behavioural assays__ in rodents, __neural network models__, __deep learning__, and __statistical analysis__ of high-dimensional data.
+I am also interested in the role of __probabilistic reasoning__ in learning and adaptation, via [uncertainity due to noisy observations](https://www.cell.com/neuron/fulltext/S0896-6273(19)30982-1) or via latent state inference.
+
+I  use a variety of experimental and quantitative approaches - __neural recording and perturbation__ tools, __behavioural assays__ in rodents, __neural network models__, __latent variable modeling__, __deep learning__, and __statistical analysis__ of high-dimensional data.
 
 
 
