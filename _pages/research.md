@@ -22,6 +22,7 @@ I am interested in the interaction of multiple learning pathways, both from an a
 ---------------------------------------------------------
 <img align="left" src="../../images/control_fig.png" alt="Schematic of feedback controller in brain controlling rnn and indirectly an effector" title="Modelling recurrent network dynamics, with inputs from a feedback controller inputs, during a 2D cursor manipulation task" hspace=20px vspace=20px width="70%" />
 I use _recurrent neural networks (RNNs)_ to model motor control tasks, including the use of motor BCI (brain-computer interfaces), where feedback about the output - either as _"efference copy"_ and/or _sensed state_ of the effector (limb, cursor, voice) - is a critical component to successful task completion. This feedback is needed to alter network dynamics in real time, in response to noise or external perturbations, to adjust the motor output. Moreover, learning in these networks may involve changes to the feedback inputs rather than to the recurrent network structure itself, especially when the dynamics are expressive enough. Borrowing insights from work on state-feedback controllers and modelling these "controllers" using neural network architectures, I study the implications of such an organization on __observed neural activity structure__ and __constraints on motor adaptation__.
+
 ---------------------------------------------------------
 
 ## 2 Data-driven models for control of biomechanical bodies 
