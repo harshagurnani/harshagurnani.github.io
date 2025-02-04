@@ -9,7 +9,7 @@ I am interested in the interaction of multiple learning pathways, both from an a
 
 ### List of Projects:
 1. [Feedback control of Cortical Dynamics](#1-feedback-control-of-cortical-dynamics)
-2. 
+2. [Data-driven models for control of biomechanical bodies](#2-data-driven-models-for-control-of-biomechanical-bodies)
 3. [Population dynamics in the cerebellar cortex](#3-population-dynamics-in-the-cerebellar-cortex)
     - [Dynamics of electrically-coupled cerebellar inhibitory networks](#3a-dynamics-of-electrically-coupled-cerebellar-inhibitory-networks)
     - [Sensorimotor transformation across the cerebellar circuit](#3b-sensorimotor-transformation-across-the-cerebellar-circuit)
