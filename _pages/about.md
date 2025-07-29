@@ -20,7 +20,7 @@ __Contact__: hg3206(at)nyu.edu
 How do we adapt quickly and flexibly in complex environments, leveraging prior knowledge? I investigate __error-driven learning__ (e.g. sensory- and reward-prediction errors) that rely on three critical features:
 - __feedback__ (via sensory experiences)
 - __internal models__ (models of the world and body that allow us to predict the consequences of our actions, to plan and to simulate)
-- __probabilistic reasoning__, as uncertainty to deal with noisy or sparse feedback, and in belief formation. 
+- __probabilistic reasoning__, as uncertainty to deal with noisy or sparse feedback, and by belief formation. 
 
 I link computational descriptions of learning to mechanistic and algorithmic accounts of how related neural _dynamics_ support the __rapid and flexible updating of internal representations__ on slow (hours) and fast (seconds) timescales.
 
