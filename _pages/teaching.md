@@ -18,8 +18,7 @@ A list of my own teaching experience:
 - [2016]	TA for *MB208: Theoretical and Computational Neuroscience*, IISc [(link)](http://mbu.iisc.ac.in/~mb208/)
 
 ### Mentoring
-- [2024-] Mentoring multiple undergraduate students 
-- [2018-21] Mentoring of undergraduate thesis and PhD rotation students 
+- [2018 - current] Mentoring of multiple high school interns, undergraduate and graduate students. Notable partner programs targeted towards underserved and underrepresented communities include [GSTEM](https://www.nyu.edu/admissions/high-school-and-middle-school-programs/high-school-programs/gstem.html), [UW-ENDURE](http://depts.washington.edu/endure/), [WMAM](https://amath.washington.edu/women-applied-mathematics-mentorship-program), [In2ScienceUK](https://in2scienceuk.org/)
 - [2019-2020] Weekly mentoring at [ReachOut, UK](https://www.reachoutuk.org/) (working with grade 5/6 students)
 
 ### Training
