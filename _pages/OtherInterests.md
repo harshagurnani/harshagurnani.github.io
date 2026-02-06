@@ -5,7 +5,7 @@ permalink: /nonsci/
 author_profile: true
 ---
 
-When I'm not reading neuroscience or mathematics, I'm enjoying modern art - fiction, poetry, visual arts -, listening to podcasts, watching cinema, or on a hike!
+When I'm not reading neuroscience or mathematics, I'm enjoying modern art - fiction, poetry, visual arts -, listening to podcasts, watching cinema, or on a hike! I also do interviews and write profiles for [Stories of Women in Neuroscience](https://www.storiesofwin.org/) - read some of them [here](https://www.storiesofwin.org/profiles?author=67ef66e6f439a303ab3d43e8)!
 
 Here are some recommendations, arbitrarily updated at times based on a Poisson process... (or check on [Goodreads](https://www.goodreads.com/user/show/29608337-harsha-gurnani) or [Mubi](https://mubi.com/en/users/8800427))
 
@@ -24,6 +24,8 @@ Choose the former if you are interested in historical accounts of how different 
 
 - [Impure Science](https://www.goodreads.com/book/show/693573.Impure_Science) by Steven Epstein. 
 AIDS, Activism, and the Politics of Knowledge - the construction of "certainty" is as much a social and political phenomenon as it is a scientific one. From the conceptualisation of the hypothesis space to the commercialization of scientific knowledge to the widespread acceptance or credibility of scientific "truths", the dynamics between scientists, institutions and the public play out within a historical and socio-cultural context.
+
+Currently reading: [The Melancholy of Resistance](https://www.goodreads.com/book/show/119512.The_Melancholy_of_Resistance)
 
 ### Poetry
 - [Blue Estuaries](https://www.goodreads.com/book/show/1522562.The_Blue_Estuaries) by Louise Bogan. Emotive and forceful, her poetry aims to consume the spirit.
