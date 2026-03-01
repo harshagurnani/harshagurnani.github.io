@@ -1,8 +1,8 @@
 ---
-title: "Feedback control of cortical dynamics"
+title: "Dynamical constraints on learning"
 order: 2
 permalink: /projects/feedback-control-cortical-dynamics/
-excerpt: "How feedback, intrinsic dynamics, and controllability shape dynamical constraints on fast learning."
+excerpt: "How feedback, intrinsic dynamics, and controllability constrain learning timescales for fast adaptation."
 tags:
   - sensory-feedback
   - recurrent-neural-networks
