@@ -45,7 +45,7 @@ Before that, I studied Biology and Mathematics as an undergraduate at the Indian
 
 ## News
 
-__Feb 2026__: I visited my _alma matter_ after nearly a decade! And gave seminars on my postdoctoral work at  Indian Institute of Science and National Centre for Biological Sciences in Bangalore. Thanks Abhilasha and Rishi for the invite!
+__Feb 2026__: I visited my _alma mater_ after nearly a decade! And gave seminars on my postdoctoral work at  Indian Institute of Science and National Centre for Biological Sciences in Bangalore. Thanks Abhilasha and Rishi for the invite!
 
 __Nov 2025__: Juncal Arbelaiz (at Princeton) and I got a second [Catalyst Grant](https://schmidtsciencefellows.org/news/catalyst-grants-boost-innovative-interdisciplinary-collaborations/_) from Schmidt Sciences to develop control-theoretic approaches for neural systems.
 
