@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Math, Molecules & the Mind"
 title_separator          : "-"
 name                     : &name "Harsha Gurnani"
-description              : &description "Postdoctoral Fellow at UW"
+description              : &description "Postdoctoral Fellow at NYU"
 url                      : https://harshagurnani.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "harshagurnani/harshagurnani.github.io"
