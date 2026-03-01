@@ -2,7 +2,7 @@
 title: "Feedback control of cortical dynamics"
 order: 2
 permalink: /projects/feedback-control-cortical-dynamics/
-excerpt: "How feedback signals and controllability constraints shape adaptation and learning in motor cortical dynamics."
+excerpt: "How feedback, intrinsic dynamics and controllability shape dynamical constraints on fast learning."
 tags:
   - sensory-feedback
   - recurrent-neural-networks
