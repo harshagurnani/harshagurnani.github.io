@@ -1,6 +1,6 @@
 {% include base_path %}
 
-{% if site.tag_archive.type and page.tags[0] %}
+{% if page.collection != 'portfolio' and site.tag_archive.type and page.tags[0] %}
   {% include tag-list.html %}
 {% endif %}
 

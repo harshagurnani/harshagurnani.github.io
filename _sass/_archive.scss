@@ -116,17 +116,15 @@
   margin-bottom: 2em;
 
   .archive__item-teaser {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    aspect-ratio: 16 / 9;
-    padding: 0.5rem;
+    display: block;
+    padding: 0;
+    overflow: visible;
   }
 
   .archive__item-teaser img {
     width: 100%;
-    height: 100%;
-    object-fit: contain;
+    height: auto;
+    object-fit: unset;
   }
 
   .page__meta {
