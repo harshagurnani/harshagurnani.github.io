@@ -10,6 +10,7 @@ Science is not a solitary venture - in fact, some of the best parts of a scienti
 [Dr. Cristina Savin](https://www.savinlab.org/)\\
 Associate Professor\\
 Center for Neural Science and Center for Data Science\\
+New York University
 
 [Dr. Christine Constantinople](https://constantinoplelab.com/)\\
 Assistant Professor\\
