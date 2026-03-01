@@ -16,6 +16,7 @@ I am interested in the interaction of multiple learning pathways, both from an a
     {% include archive-single.html type="grid" %}
 {% endfor %}
 </div>
+<div class="cf"></div>
 
 
 ### List of Projects:

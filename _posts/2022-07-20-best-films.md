@@ -3,9 +3,6 @@ title: 'Quiet films'
 date: 2022-07-20
 permalink: /posts/2022/07/best-films/
 tags:
-  - film
-  - personal
-  - favorites
 ---
 
 I have a strong preference for languid, introspective films - conversations filled with silences, lingering shots, dusty cities coming alive at night, human movement as a choreography through scenes. These include New Wave and contemporary directors both in Europe and (South) East Asia. Here's a non-exhaustive list of some recommendations from this "genre":
