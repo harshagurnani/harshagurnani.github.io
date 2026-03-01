@@ -34,6 +34,6 @@ Some ideas have oft been suggested for such a quantitative training:
 3. Flexibility with software for class assignments
 4. Collaborative programming - teach problem solving in real time and how to "think through" coding and normalize not knowing
 5. Teach data wrangling and visualization
-6. Focus on tradeoffs to encourage critical thinking, not cookie-cutter analyses.
+6. Focus on tradeoffs to encourage critical thinking, not cookie-cutter analyses
 7. Problem-based and active learning approaches, encouraging "how to learn" as much as "what to learn"
 8. Start with fundamentals in your/their field
