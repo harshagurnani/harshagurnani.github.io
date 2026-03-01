@@ -1,6 +1,19 @@
 {% include base_path %}
 
-{% if page.collection != 'portfolio' and site.tag_archive.type and page.tags[0] %}
+{% if page.collection == 'portfolio' and page.tags[0] %}
+  {% capture page_tags %}{% for tag in page.tags %}{{ tag | downcase }}#{{ tag }}{% unless forloop.last %},{% endunless %}{% endfor %}{% endcapture %}
+  {% assign tag_hashes = (page_tags | split: ',' | sort:0) %}
+  <p class="page__taxonomy">
+    <strong><i class="fa fa-fw fa-tags" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].tags_label | default: "Tags:" }} </strong>
+    <span itemprop="keywords">
+    {% for hash in tag_hashes %}
+      {% assign keyValue = hash | split: '#' %}
+      {% capture tag_word %}{{ keyValue[1] | strip_newlines }}{% endcapture %}
+      <span class="page__taxonomy-item">{{ tag_word }}</span>{% unless forloop.last %}<span class="sep">, </span>{% endunless %}
+    {% endfor %}
+    </span>
+  </p>
+{% elsif site.tag_archive.type and page.tags[0] %}
   {% include tag-list.html %}
 {% endif %}
 
