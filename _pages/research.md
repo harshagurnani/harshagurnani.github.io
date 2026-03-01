@@ -7,6 +7,25 @@ author_profile: true
 
 I am interested in the interaction of multiple learning pathways, both from an algorithmic perspective, as well as uncovering the multi-regional circuits that underlie learning. I am also interested in the neural dynamics that emerge over learning to support new task-relevant computations, with a focus on how feedback - sensory and internal feedback loops - can flexibly modulate effective cortical dynamics, and how these input-driven dynamics are learnt via multiple forms of errors. I am also motivated by the dynamical systems perspective that understanding neural computation requires not only identifying neural representations, but also uncovering the rules that govern how those representations evolve over time.
 
+## Project Gallery
+
+{% include base_path %}
+{% assign research_projects = site.portfolio | sort: "title" %}
+{% for post in research_projects %}
+    {% include archive-single.html type="grid" %}
+{% endfor %}
+
+## Browse by Tag
+
+{% assign raw_tags = site.portfolio | map: "tags" | join: "," | split: "," | sort %}
+{% assign unique_tags = raw_tags | uniq %}
+{% for tag in unique_tags %}
+    {% assign clean_tag = tag | strip %}
+    {% if clean_tag != "" %}
+- [{{ clean_tag }}]({{ base_path }}/research-tags/#{{ clean_tag | slugify }})
+    {% endif %}
+{% endfor %}
+
 ### List of Projects:
 1. [Data-driven discovery of shared latent dynamics across sessions](#data-driven-discovery-of-shared-latent-dynamics-across-sessions)
 2. [Feedback control of Cortical Dynamics](#feedback-control-of-cortical-dynamics)
