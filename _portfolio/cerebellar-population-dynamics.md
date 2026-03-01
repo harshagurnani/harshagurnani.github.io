@@ -1,7 +1,7 @@
 ---
 title: "Population dynamics in the cerebellar cortex"
 permalink: /projects/cerebellar-population-dynamics/
-excerpt: "Spatiotemporal inhibitory network dynamics and sensorimotor transformations across cerebellar circuits."
+excerpt: "Inhibitory network dynamics and sensorimotor transformations across cerebellar circuits."
 tags:
   - cerebellum
   - population-dynamics

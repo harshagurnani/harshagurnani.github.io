@@ -115,6 +115,20 @@
 .grid__item {
   margin-bottom: 2em;
 
+  .archive__item-teaser {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    aspect-ratio: 16 / 9;
+    padding: 0.5rem;
+  }
+
+  .archive__item-teaser img {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+  }
+
   .page__meta {
     margin: 0 0 4px;
   }

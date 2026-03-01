@@ -1,7 +1,7 @@
 ---
 title: "Data-driven discovery of shared latent dynamics across sessions"
 permalink: /projects/shared-latent-dynamics/
-excerpt: "A shared nonlinear latent dynamical model to align and forecast neural population activity across recording sessions."
+excerpt: "Data-driven discovery of nonlinear latent dynamics and aligned neural population activity across sessions."
 tags:
   - neural-dynamics
   - latent-variable-models
