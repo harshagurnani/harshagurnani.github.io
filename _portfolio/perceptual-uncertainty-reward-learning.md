@@ -9,7 +9,7 @@ tags:
   - data-driven
   - behavior
 header:
-  teaser: rl_small.jpg
+  teaser: rl_small.png
 ---
 
 <img align="left" src="../../images/rewlearning.jpg" alt="Q-learning with perceptual uncertainty scaling" title="Behavioral and computational signatures of decisions guided by reward value and sensory confidence" hspace="90" vspace=15px width=800 />
