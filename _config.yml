@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Math, Molecules and the Mind"
+title                    : "Math, Molecules & the Mind"
 title_separator          : "-"
 name                     : &name "Harsha Gurnani"
 description              : &description "Postdoctoral Fellow at UW"
