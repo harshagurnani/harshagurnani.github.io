@@ -15,16 +15,6 @@ I am interested in the interaction of multiple learning pathways, both from an a
     {% include archive-single.html type="grid" %}
 {% endfor %}
 
-## Browse by Tag
-
-{% assign raw_tags = site.portfolio | map: "tags" | join: "," | split: "," | sort %}
-{% assign unique_tags = raw_tags | uniq %}
-{% for tag in unique_tags %}
-    {% assign clean_tag = tag | strip %}
-    {% if clean_tag != "" %}
-- [{{ clean_tag }}]({{ base_path }}/research-tags/#{{ clean_tag | slugify }})
-    {% endif %}
-{% endfor %}
 
 ### List of Projects:
 1. [Data-driven discovery of shared latent dynamics across sessions](#data-driven-discovery-of-shared-latent-dynamics-across-sessions)
@@ -37,6 +27,17 @@ I am interested in the interaction of multiple learning pathways, both from an a
 6. [Other projects](#ongoing-projects)
    - Learning without plasticity
    - Active learning for closed-loop experiments
+
+## Browse by Tag
+
+{% assign raw_tags = site.portfolio | map: "tags" | join: "," | split: "," | sort %}
+{% assign unique_tags = raw_tags | uniq %}
+{% for tag in unique_tags %}
+    {% assign clean_tag = tag | strip %}
+    {% if clean_tag != "" %}
+- [{{ clean_tag }}]({{ base_path }}/research-tags/#{{ clean_tag | slugify }})
+    {% endif %}
+{% endfor %}
 
 ## Data-driven discovery of shared latent dynamics across sessions
 <img align="left" src="../../images/dynest.png" alt="Probabilistic model to estimate latent neural trajectories and structure of latent dynamics from neural recordins across days. Dynamics are assumed to be shared across days but mapping from latents to single neural spiking is flexible across days." title="Data-driven estimation of shared latent dynamics." hspace=20px vspace=5px width="35%" />
