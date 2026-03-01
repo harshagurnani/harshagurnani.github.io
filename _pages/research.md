@@ -11,9 +11,11 @@ I am interested in the interaction of multiple learning pathways, both from an a
 
 {% include base_path %}
 {% assign research_projects = site.portfolio | sort: "title" %}
+<div class="grid__wrapper">
 {% for post in research_projects %}
     {% include archive-single.html type="grid" %}
 {% endfor %}
+</div>
 
 
 ### List of Projects:
