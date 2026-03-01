@@ -47,8 +47,8 @@ Before that, I studied Biology and Mathematics as an undergraduate at the Indian
 
 __Feb 2026__: I visited my _alma matter_ after nearly a decade! And gave seminars on my postdoctoral work at  Indian Institute of Science and National Centre for Biological Sciences in Bangalore. Thanks Abhilasha and Rishi for the invite!
 
-__Nov 2026__: Juncal Arbelaiz (at Princeton) and I got a second [Catalyst Grant](https://schmidtsciencefellows.org/news/catalyst-grants-boost-innovative-interdisciplinary-collaborations/_) from Schmidt Sciences to develop control-theoretic approaches for neural systems.
+__Nov 2025__: Juncal Arbelaiz (at Princeton) and I got a second [Catalyst Grant](https://schmidtsciencefellows.org/news/catalyst-grants-boost-innovative-interdisciplinary-collaborations/_) from Schmidt Sciences to develop control-theoretic approaches for neural systems.
 
-__Aug 2026__: I mentored Jessica, a high-school student, over 6 weeks through the [GSTEM program](https://www.nyu.edu/admissions/high-school-and-middle-school-programs/high-school-programs/gstem.html) by the Courant Institute of Mathematical Sciences at NYU. Jessica did some super cool analyses of millions of trials and hundreds of rats doing value-based decision-making to show structured variability across indvidual rats!
+__Aug 2025__: I mentored Jessica, a high-school student, over 6 weeks through the [GSTEM program](https://www.nyu.edu/admissions/high-school-and-middle-school-programs/high-school-programs/gstem.html) by the Courant Institute of Mathematical Sciences at NYU. Jessica did some super cool analyses of millions of trials and hundreds of rats doing value-based decision-making to show structured variability across indvidual rats!
 
-__May 2026__: I joined the labs of Cristina Savin and Christine Constantinople at NYU as a postdoctoral fellow and moved to the wonderful city of New York!
+__May 2025__: I joined the labs of Cristina Savin and Christine Constantinople at NYU as a postdoctoral fellow and moved to the wonderful city of New York!
