@@ -24,3 +24,16 @@ A list of my own teaching experience:
 
 ### Training
 - [2024] [STEP-WISE]((https://depts.washington.edu/stepuw/home/step-wise/) ) Mentored Teaching Program at UW
+
+### Teaching Quantitative Methods for Biology Majors
+Quantitative skills, including not just fundamental statistics but mathematical modeling and analysis of large-scale data, is becoming indispensible for discovery in biological systems and is useful for formalizing intuition. I'm keen on integrating coding and math in training for biology and neuroscience majors; this requires curriculum reform and thinking deeply about how to teach these skills in a manner appropriate for the work that it will be used for, but not compromising on creating a sense of curiosity (and not just practicality) that is essential for future self-motivated learning.
+
+Some ideas have oft been suggested for such a quantitative training:
+1. Discipline-based programming, i.e. designing examples and problem sets that the audience finds valuable and brings expertise in.
+2. Address negative emotional priors and initial disparities but emphasize growth mindset
+3. Flexibility with software for class assignments
+4. Collaborative programming - teach problem solving in real time and how to "think through" coding and normalize not knowing
+5. Teach data wrangling and visualization
+6. Focus on tradeoffs to encourage critical thinking, not cookie-cutter analyses.
+7. Problem-based and active learning approaches, encouraging "how to learn" as much as "what to learn"
+8. Start with fundamentals in your/their field
