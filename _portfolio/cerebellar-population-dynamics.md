@@ -1,5 +1,6 @@
 ---
 title: "Population dynamics in the cerebellar cortex"
+order: 3
 permalink: /projects/cerebellar-population-dynamics/
 excerpt: "Inhibitory network dynamics and sensorimotor transformations across cerebellar circuits."
 tags:

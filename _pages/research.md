@@ -10,7 +10,7 @@ I am interested in the interaction of multiple learning pathways, both from an a
 ## Project Gallery
 
 {% include base_path %}
-{% assign research_projects = site.portfolio | sort: "title" %}
+{% assign research_projects = site.portfolio | sort: "order" %}
 <div class="grid__wrapper">
 {% for post in research_projects %}
     {% include archive-single.html type="grid" %}

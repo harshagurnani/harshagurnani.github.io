@@ -1,5 +1,6 @@
 ---
 title: "Feedback control of cortical dynamics"
+order: 2
 permalink: /projects/feedback-control-cortical-dynamics/
 excerpt: "How feedback signals and controllability constraints shape adaptation and learning in motor cortical dynamics."
 tags:

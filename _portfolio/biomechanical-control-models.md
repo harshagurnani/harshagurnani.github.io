@@ -1,5 +1,6 @@
 ---
 title: "Data-driven models for control of biomechanical bodies"
+order: 5
 permalink: /projects/biomechanical-control-models/
 excerpt: "Closed-loop neural controllers with biologically grounded sensory feedback for realistic locomotion in Drosophila."
 tags:

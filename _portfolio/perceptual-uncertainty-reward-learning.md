@@ -1,5 +1,6 @@
 ---
 title: "Role of perceptual uncertainty in reward-driven learning"
+order: 4
 permalink: /projects/perceptual-uncertainty-reward-learning/
 excerpt: "Computational signatures of reinforcement learning when state inference is uncertain due to noisy perception."
 tags:

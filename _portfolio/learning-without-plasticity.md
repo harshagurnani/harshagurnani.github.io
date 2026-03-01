@@ -1,5 +1,6 @@
 ---
 title: "Learning without plasticity"
+order: 6
 permalink: /projects/learning-without-plasticity/
 excerpt: "Fast adaptation via input-driven reorganization of dynamics, contextual inference, and flexible inter-area associations."
 tags:
