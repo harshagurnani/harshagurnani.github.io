@@ -2,7 +2,7 @@
 title: "Population dynamics in the cerebellar cortex"
 order: 3
 permalink: /projects/cerebellar-population-dynamics/
-excerpt: "Inhibitory network dynamics and representational transformations across cerebellar circuits."
+excerpt: "Network structure shapes inhibitory network dynamics and representational transformations across cerebellar circuits."
 tags:
   - cerebellum
   - population-dynamics
