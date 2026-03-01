@@ -24,8 +24,7 @@ How do we adapt quickly and flexibly in complex environments, leveraging prior k
 
 I link computational descriptions of learning to mechanistic and algorithmic accounts of how related neural _dynamics_ support the __rapid and flexible updating of internal representations__ on slow (hours) and fast (seconds) timescales.
 
-I  use a variety of experimental and quantitative approaches - __neural recording and perturbation__ tools, __behavioural assays__ in rodents, __neural network models__, __latent variable modeling__, __deep learning__, and __statistical analysis__ of high-dimensional data. I am also interested in __data-driven dynamical systems modelling__ and __control__, which are critical for closed-loop interrogation of brain-and-behaviour (e.g. with optogenetics or electrical stimulation) by better accounting for the system dynamics.
-
+I combine data-driven and theoretical approaches, including __network models__, __latent variable modeling__, __deep learning__, and __statistical analysis__ of high-dimensional data. I am also interested in __data-driven dynamical systems modelling__ and __control__, which are critical for closed-loop interrogation of brain-and-behaviour (e.g. with optogenetics or electrical stimulation) by better accounting for the system dynamics. I have also done experimental work as a graduate student including __neural recording and perturbations__ and __behavioural assays__ in rodents.
 
 
 
