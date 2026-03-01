@@ -4,7 +4,6 @@ title: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---
-I will soon put up a list of resources on inclusive and student-centred pedagogy that I have found to be useful.
 
 A list of my own teaching experience:
 
@@ -37,3 +36,5 @@ Some ideas have oft been suggested for such a quantitative training:
 6. Focus on tradeoffs to encourage critical thinking, not cookie-cutter analyses
 7. Problem-based and active learning approaches, encouraging "how to learn" as much as "what to learn"
 8. Start with fundamentals in your/their field
+
+I will soon put up a list of resources on inclusive and student-centred pedagogy that I have found to be useful.
