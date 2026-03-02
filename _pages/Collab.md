@@ -19,7 +19,6 @@ New York University
 
 [Dr. Alex Cayco-Gajic](https://caycogajiclab.github.io/)\\
 Group for Neural Theory (GNT) \\
-Laboratoire de Neurosciences Cognitives & Computationnelles (LNC2)\\
 Département D’Etudes Cognitives \\
 École Normale Supérieure (ENS), Paris
 

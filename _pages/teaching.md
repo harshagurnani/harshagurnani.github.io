@@ -17,8 +17,8 @@ A list of my own teaching experience:
 - [2016]	TA for *MB208: Theoretical and Computational Neuroscience*, IISc [(link)](http://mbu.iisc.ac.in/~mb208/)
 
 ### Mentoring
-- [2024-] Mentoring multiple undergraduate students 
-- [2018-21] Mentoring of undergraduate thesis and PhD rotation students 
+- [2023-] Mentoring high-school, undergraduate and graduate students
+- [2018-21] Mentoring of undergraduate thesis and PhD students 
 - [2019-2020] Weekly mentoring at [ReachOut, UK](https://www.reachoutuk.org/) (working with grade 5/6 students)
 
 ### Training

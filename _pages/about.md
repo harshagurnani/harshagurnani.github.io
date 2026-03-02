@@ -17,29 +17,29 @@ __Contact__: hg3206(at)nyu.edu
 
 ## Research interests
 
-How do we adapt quickly and flexibly in complex environments, leveraging prior knowledge? I investigate __error-driven learning__ (e.g. sensory- and reward-prediction errors) that rely on three critical features:
+How do we adapt quickly and flexibly in complex environments, leveraging prior knowledge? I investigate __error-driven learning__ that rely on three critical features:
 - __feedback__ (via sensory experiences)
 - __internal models__ (models of the world and body that allow us to predict the consequences of our actions, to plan and to simulate)
-- __probabilistic reasoning__, as uncertainty to deal with noisy or sparse feedback, and by belief formation. 
+- __probabilistic reasoning__, as uncertainty to deal with noisy or sparse feedback, and by belief formation and inferring hidden structure. 
 
 I link computational descriptions of learning to mechanistic and algorithmic accounts of how related neural _dynamics_ support the __rapid and flexible updating of internal representations__ on slow (hours) and fast (seconds) timescales.
 
-I combine data-driven and theoretical approaches, including __network models__, __latent variable modeling__, __deep learning__, and __statistical analysis__ of high-dimensional data. I am also interested in __data-driven dynamical systems modelling__ and __control__, which are critical for closed-loop interrogation of brain-and-behaviour (e.g. with optogenetics or electrical stimulation) by better accounting for the system dynamics. I have also done experimental work as a graduate student including __neural recording and perturbations__ and __behavioural assays__ in rodents.
+I combine data-driven and theoretical approaches, including __network models__, __latent variable modeling__, __deep learning__, and __statistical analysis__ of high-dimensional data. I am also interested in __data-driven dynamical systems modelling__ and __control__, which are critical for closed-loop interrogation of brain-and-behaviour (e.g. with optogenetics or electrical stimulation) by better accounting for the system dynamics. As a graduate student, I also performed __neural recording and perturbations__ and __behavioural assays__ in rodents.
 
 
+## Experience
 
-## Current work
-I am currently a postdoctoral fellow with [Cristina Savin](https://csavin.wixsite.com/savinlab) and [Christine Constantinople](https://constantinoplelab.com/) at New York University, NYC, where I study multi-region dynamics that support flexible value-guided decision making in nonstationary environments.
+__Postdoctoral Fellow__ | New York University, NYC (Current)
+*Working with [Cristina Savin](https://csavin.wixsite.com/savinlab) & [Christine Constantinople](https://constantinoplelab.com/)*
+Investigating multi-region dynamics supporting flexible value-guided decision making in nonstationary environments.
 
-Previously, I was a Schmidt Science Fellow with [Prof Bing Brunton](https://www.bingbrunton.com/) at the University of Washington, Seattle,  where I studied the __control of recurrent neural dynamics__ (such as activity in motor cortex) via feedback inputs, and the role of __flexible feedback modulation in motor adaptation__. This may helps us better dissect the mechanisms of short-term adaptation versus long-term learning, and guide the design of more learnable brain-computer interfaces as rehabilitative devices.
+__Schmidt Science Fellow__ | University of Washington, Seattle
+*Working with [Bing Brunton](https://www.bingbrunton.com/)*
+Studied feedback-based modulation of recurrent neural dynamics, and the role of feedback controllabiliy in fast motor adaptation. This may helps us better dissect the mechanisms of short-term adaptation versus long-term learning, and guide the design of more learnable brain-computer interfaces as rehabilitative devices.
 
-## Previous work
-I obtained my PhD with [Prof Angus Silver](https://silverlab.org/) at University College London, funded by a Wellcome Trust PhD studentship. I examined neural activity in the cerebellar input layer, with a focus on inhibitory Golgi cells and the multiple roles of electrical coupling. I focussed on two main questions:
-
-1. What is the __dynamical regime of electrically coupled networks__, and how is this determined by the connectivity structure and input statistics?
-
-2. How is sensorimotor information, entering the cerebellar cortex via __pontine mossy fibres, transformed and reorganised within cerebellar circuits__ to aid associative learning?
-
+**PhD in Neuroscience** | University College London, London
+*Working with [Prof. Angus Silver](https://silverlab.org/)*
+Examined dynamical regimes of electrically-coupled inhibitory networks as well as representational transformations of cortico-pontine inputs in the cerebellar cortex, that aid learning in the cortico-cerebellar pathway.
 
 Before that, I studied Biology and Mathematics as an undergraduate at the Indian Institute of Science, Bangalore.
 
@@ -49,6 +49,6 @@ __Feb 2026__: I visited my _alma mater_ after nearly a decade! And gave seminars
 
 __Nov 2025__: Juncal Arbelaiz (at Princeton) and I got a second [Catalyst Grant](https://schmidtsciencefellows.org/news/catalyst-grants-boost-innovative-interdisciplinary-collaborations/_) from Schmidt Sciences to develop control-theoretic approaches for neural systems.
 
-__Aug 2025__: I mentored Jessica, a high-school student, over 6 weeks through the [GSTEM program](https://www.nyu.edu/admissions/high-school-and-middle-school-programs/high-school-programs/gstem.html) by the Courant Institute of Mathematical Sciences at NYU. Jessica did some super cool analyses of millions of trials and hundreds of rats doing value-based decision-making to show structured variability across indvidual rats!
+__Aug 2025__: I mentored Jessica, a high-school student, over 6 weeks through the [GSTEM program](https://www.nyu.edu/admissions/high-school-and-middle-school-programs/high-school-programs/gstem.html) at NYU. Jessica analyzed behavior over millions of trials and hundreds of rats making value-guided decisions to show structured variability across indvidual rats!
 
 __May 2025__: I joined the labs of Cristina Savin and Christine Constantinople at NYU as a postdoctoral fellow and moved to the wonderful city of New York!
