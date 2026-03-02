@@ -31,7 +31,7 @@ Investigating multi-region dynamics supporting flexible value-guided decision ma
 
 __Schmidt Science Fellow__ | University of Washington, Seattle\\
 *Working with [Bing Brunton](https://www.bingbrunton.com/)*\\
-Studied feedback-based modulation of recurrent neural dynamics, and the role of feedback controllabiliy in fast motor adaptation. This may helps us better dissect the mechanisms of short-term adaptation versus long-term learning, and guide the design of more learnable brain-computer interfaces as rehabilitative devices.
+Studied feedback-based modulation of recurrent neural dynamics, and the role of feedback controllabiliy in fast motor adaptation.
 
 **PhD in Neuroscience** | University College London, London\\
 *Working with [Prof. Angus Silver](https://silverlab.org/)*\\
