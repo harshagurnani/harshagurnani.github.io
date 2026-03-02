@@ -17,15 +17,11 @@ __Contact__: hg3206(at)nyu.edu
 
 ## Research interests
 
-How do we adapt quickly and flexibly in complex environments, leveraging prior knowledge? I investigate __error-driven learning__ that rely on three critical features:
-- __feedback__ (via sensory experiences)
-- __internal models__ (models of the world and body that allow us to predict the consequences of our actions, to plan and to simulate)
-- __probabilistic reasoning__, as uncertainty to deal with noisy or sparse feedback, and by belief formation and inferring hidden structure. 
+__How do we adapt quickly and flexibly in complex environments, leveraging prior knowledge?__  I investigate error-driven learning that relies on three features: _internal models_ for prediction and planning, _feedback_ for continuous refinement, and _probabilistic reasoning_ to infer hidden structure and deal with uncertainty.
 
 I link computational descriptions of learning to mechanistic and algorithmic accounts of how related neural _dynamics_ support the __rapid and flexible updating of internal representations__ on slow (hours) and fast (seconds) timescales.
 
-I combine data-driven and theoretical approaches, including __network models__, __latent variable modeling__, __deep learning__, and __statistical analysis__ of high-dimensional data. I am also interested in __data-driven dynamical systems modelling__ and __control__, which are critical for closed-loop interrogation of brain-and-behaviour (e.g. with optogenetics or electrical stimulation) by better accounting for the system dynamics. As a graduate student, I also performed __neural recording and perturbations__ and __behavioural assays__ in rodents.
-
+My approach integrates theoretical and statistical approaches (latent variable modeling, deep learning, network models, dynamical systems) with large-scale neural & behavioral data and circuit perturbations.  I am also interested in __data-driven systems identification__ and __control__, which are critical for closed-loop interrogation of brain-and-behaviour (e.g. with optogenetics or electrical stimulation) by better accounting for the system dynamics.
 
 ## Experience
 
