@@ -29,16 +29,16 @@ I combine data-driven and theoretical approaches, including __network models__, 
 
 ## Experience
 
-__Postdoctoral Fellow__ | New York University, NYC (Current)
-*Working with [Cristina Savin](https://csavin.wixsite.com/savinlab) & [Christine Constantinople](https://constantinoplelab.com/)*
+__Postdoctoral Fellow__ | New York University, NYC (Current)\\
+*Working with [Cristina Savin](https://csavin.wixsite.com/savinlab) & [Christine Constantinople](https://constantinoplelab.com/)*\\
 Investigating multi-region dynamics supporting flexible value-guided decision making in nonstationary environments.
 
-__Schmidt Science Fellow__ | University of Washington, Seattle
-*Working with [Bing Brunton](https://www.bingbrunton.com/)*
+__Schmidt Science Fellow__ | University of Washington, Seattle\\
+*Working with [Bing Brunton](https://www.bingbrunton.com/)*\\
 Studied feedback-based modulation of recurrent neural dynamics, and the role of feedback controllabiliy in fast motor adaptation. This may helps us better dissect the mechanisms of short-term adaptation versus long-term learning, and guide the design of more learnable brain-computer interfaces as rehabilitative devices.
 
-**PhD in Neuroscience** | University College London, London
-*Working with [Prof. Angus Silver](https://silverlab.org/)*
+**PhD in Neuroscience** | University College London, London\\
+*Working with [Prof. Angus Silver](https://silverlab.org/)*\\
 Examined dynamical regimes of electrically-coupled inhibitory networks as well as representational transformations of cortico-pontine inputs in the cerebellar cortex, that aid learning in the cortico-cerebellar pathway.
 
 Before that, I studied Biology and Mathematics as an undergraduate at the Indian Institute of Science, Bangalore.
