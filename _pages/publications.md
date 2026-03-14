@@ -23,4 +23,6 @@ Please refer to my [Google scholar](https://scholar.google.com/citations?user=2u
 ### Preprints
 7. **Harsha Gurnani**\*, Weixuan Liu, Bing W Brunton. __Feedback control of recurrent dynamics constrains learning timescales during motor adaptation__ (2024). *bioRxiv* [[link]](https://doi.org/10.1101/2024.05.24.595772) [[code]](https://github.com/harshagurnani/FeedbackControlledRNN)
 
-8. Armin Lak\*, Michael Okun, Morgane Moss, **Harsha Gurnani**, Miles J Wells, Charu Bai Reddy, Kenneth D Harris, Matteo Carandini. __Dopaminergic and frontal signals for decisions guided by sensory evidence and reward value__ (2019).  *bioRxiv* .  [[pdf]](https://www.biorxiv.org/content/biorxiv/early/2018/09/07/411413.1.full.pdf)  [[link]](https://doi.org/10.1101/411413)
+8. Margaret L DeMaegd\*, David Hocker, **Harsha Gurnani**, Mitzi Adler-Wachter, Jonny Schindler, Shannon S Schiereck, Cristina Savin, Christine M Constantinople. __A cortico-striatal circuit updates subjective beliefs about latent task states__ (2026). [[link]](https://doi.org/10.64898/2026.03.12.711369)
+
+9. Armin Lak\*, Michael Okun, Morgane Moss, **Harsha Gurnani**, Miles J Wells, Charu Bai Reddy, Kenneth D Harris, Matteo Carandini. __Dopaminergic and frontal signals for decisions guided by sensory evidence and reward value__ (2019).  *bioRxiv* .  [[pdf]](https://www.biorxiv.org/content/biorxiv/early/2018/09/07/411413.1.full.pdf)  [[link]](https://doi.org/10.1101/411413)
