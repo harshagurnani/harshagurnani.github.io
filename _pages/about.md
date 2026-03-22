@@ -41,10 +41,10 @@ Before that, I studied Biology and Mathematics as an undergraduate at the Indian
 
 ## News
 
+__Mar 2026__: I will be an Assistant Professor/Faculty Fellow at the [Center for Data Science](https://cds.nyu.edu/research-home/), NYU  (starting Sep 2026), working at the interface of cognitive science, neuroscience, systems theory, and deep learning.
+
 __Feb 2026__: I visited my _alma mater_ after nearly a decade! And gave seminars on my postdoctoral work at  Indian Institute of Science and National Centre for Biological Sciences in Bangalore. Thanks Abhilasha and Rishi for the invite!
 
 __Nov 2025__: Juncal Arbelaiz (at Princeton) and I got a second [Catalyst Grant](https://schmidtsciencefellows.org/news/catalyst-grants-boost-innovative-interdisciplinary-collaborations/_) from Schmidt Sciences to develop control-theoretic approaches for neural systems.
 
 __Aug 2025__: I mentored Jessica, a high-school student, over 6 weeks through the [GSTEM program](https://www.nyu.edu/admissions/high-school-and-middle-school-programs/high-school-programs/gstem.html) at NYU. Jessica analyzed behavior over millions of trials and hundreds of rats making value-guided decisions to show structured variability across indvidual rats!
-
-__May 2025__: I joined the labs of Cristina Savin and Christine Constantinople at NYU as a postdoctoral fellow and moved to the wonderful city of New York!
