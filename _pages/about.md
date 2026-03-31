@@ -34,7 +34,7 @@ __Schmidt Science Fellow__ | University of Washington, Seattle\\
 Studied the role of prior dynamics and feedback controllability in fast motor adaptation. This may helps us better dissect the mechanisms of short-term adaptation versus long-term learning, and guide the design of more learnable brain-computer interfaces as rehabilitative devices.
 
 **PhD in Neuroscience** | University College London, London\\
-*Working with [Prof. Angus Silver](https://silverlab.org/)*\\
+*Working with [Angus Silver](https://silverlab.org/)*\\
 Examined dynamical regimes of electrically-coupled inhibitory networks as well as representational transformations of cortico-pontine inputs in the cerebellar cortex, that aid learning in the cortico-cerebellar pathway.
 
 Before that, I studied Biology and Mathematics as an undergraduate at the Indian Institute of Science, Bangalore.
