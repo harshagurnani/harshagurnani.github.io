@@ -21,7 +21,7 @@ Please refer to my [Google scholar](https://scholar.google.com/citations?user=2u
 6. Samuel M Greene\*, Sandra R Schachat\*, Naomi Arita-Merino, Xiangkun Elvis Cao, Harsha Gurnani, Michael Heyns, Maria L Cagigas, Caitlin L Maikawa, Elise J Needham, Ethan A Perets, Elizabeth Phillips, Anthony W Waddle, Christine E Wilkinson, Kevin C Zhou, Hannah M Zlotnick. __Accessible interview practices for disabled scientists and engineers__ (2024). *iScience*. [[link]](https://www.cell.com/iscience/fulltext/S2589-0042(24)01445-7)
 
 ### Preprints
-7. **Harsha Gurnani**\*, Weixuan Liu, Bing W Brunton. __Feedback control of recurrent dynamics constrains learning timescales during motor adaptation__ (2024). *bioRxiv* [[link]](https://doi.org/10.1101/2024.05.24.595772) [[code]](https://github.com/harshagurnani/FeedbackControlledRNN)
+7. **Harsha Gurnani**\*, Weixuan Liu, Bing W Brunton. __Feedback control of recurrent circuits imposes dynamical constraints on learning__ (2024). *bioRxiv* [[link]](https://doi.org/10.1101/2024.05.24.595772) [[code]](https://github.com/harshagurnani/FeedbackControlledRNN)
 
 8. Margaret L DeMaegd\*, David Hocker, **Harsha Gurnani**, Mitzi Adler-Wachter, Jonny Schindler, Shannon S Schiereck, Cristina Savin, Christine M Constantinople. __A cortico-striatal circuit updates subjective beliefs about latent task states__ (2026). [[link]](https://doi.org/10.64898/2026.03.12.711369)
 
