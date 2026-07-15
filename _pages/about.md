@@ -41,7 +41,7 @@ Before that, I studied Biology and Mathematics as an undergraduate at the Indian
 
 ## News
 
-__Mar 2026__: I will be an Assistant Professor/Faculty Fellow at the [Center for Data Science](https://cds.nyu.edu/research-home/), NYU  (starting Sep 2026), working at the interface of cognitive science, neuroscience, systems theory, and deep learning.
+__Mar 2026__: I will be a Faculty Fellow at the [Center for Data Science](https://cds.nyu.edu/research-home/), NYU  (starting Sep 2026), working at the interface of cognitive science, neuroscience, systems theory, and deep learning.
 
 __Feb 2026__: I visited my _alma mater_ after nearly a decade! And gave seminars on my postdoctoral work at  Indian Institute of Science and National Centre for Biological Sciences in Bangalore. Thanks Abhilasha and Rishi for the invite!
 
