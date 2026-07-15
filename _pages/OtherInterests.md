@@ -50,6 +50,14 @@ I have a strong preference for languid, introspective films - conversations fill
 
 - [So Long My Son](https://mubi.com/en/us/films/so-long-my-son) and [Drive My Car](https://mubi.com/en/us/films/drive-my-car) - two astonishingly beautiful takes on grief and memory.
 
+Some of my lists on Mubi:
+- [Best of...](https://mubi.com/en/lists/best-of-1475c6c6-ba57-434a-aea1-803429584a71)
+- [Silence, listlessness, and magic in Asian cinema](https://mubi.com/en/lists/silence-listlessness-and-magic)
+- [Indian realism](https://mubi.com/en/lists/indian-realism)
+- [French cinema across the decades](https://mubi.com/en/lists/best-of-french-f01b35bf-3fc7-4322-b26e-a78801b6fcd4)
+- and [more](https://mubi.com/en/users/8800427/lists)!
+
+  
 ### Hiking
 And some moments of peace among the hills!
 From top to bottom, left to right: Mt Rainier at the aptly named Paradise in Washington, view of Loch Lomond in Trossachs National Park in Scotland, Pen y Fan in Brecon Beacons in Wales, Helvellyn Ridge in Lake District in Northern England, and Lake Valhalla in Okanogan-Wenatchee National Forest in Washington. And lastly, the realities of hiking in the UK!
