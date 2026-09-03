@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <img align="right" src="/images/cricket.png" alt="Hand ready to catch ball" hspace=20px width="40%" />
-I am a [Schmidt Science postdoctoral fellow](https://schmidtsciencefellows.org/fellows/?fellow-keyword=&fellow-year=2022&filter=true) in neuroscience. I am broadly interested in the __multiple ways we learn__  - combining observations and guesses, as specific rules or general concepts, motivated by reward or internal goals. This learning is ultimately enabled and implemented via circuits in our brain - how does the architecture and activity of relevant brain regions allow us to exploit the structure of "the world as it is", while remaining enormously flexible, allowing us to learn to use new tools and concepts that human creativity continually produces?
+I am a [Faculty Fellow](https://cds.nyu.edu/faculty-fellows) at the Center for Data Science, NYU. I am broadly interested in the __multiple ways we learn__  - combining observations and guesses, as specific rules or general concepts, motivated by reward or internal goals. This learning is ultimately enabled and implemented via circuits in our brain - how does the architecture and activity of relevant brain regions allow us to exploit the structure of "the world as it is", while remaining enormously flexible, allowing us to learn to use new tools and concepts that human creativity continually produces?
 
 __Contact__: hg3206(at)nyu.edu
 
@@ -25,7 +25,7 @@ My approach integrates __theoretical and statistical approaches__ (latent variab
 
 ## Experience
 
-__Postdoctoral Fellow__ | New York University, NYC (Current)\\
+__Postdoctoral Fellow__ | New York University, NYC \\
 *Working with [Cristina Savin](https://csavin.wixsite.com/savinlab) & [Christine Constantinople](https://constantinoplelab.com/)*\\
 Investigating multi-region dynamics supporting flexible value-guided decision making in nonstationary environments.
 
@@ -40,7 +40,6 @@ Examined dynamical regimes of electrically-coupled inhibitory networks as well a
 Before that, I studied Biology and Mathematics as an undergraduate at the Indian Institute of Science, Bangalore.
 
 ## News
-
 __Mar 2026__: I will be a Faculty Fellow at the [Center for Data Science](https://cds.nyu.edu/research-home/), NYU  (starting Sep 2026), working at the interface of cognitive science, neuroscience, systems theory, and deep learning.
 
 __Feb 2026__: I visited my _alma mater_ after nearly a decade! And gave seminars on my postdoctoral work at  Indian Institute of Science and National Centre for Biological Sciences in Bangalore. Thanks Abhilasha and Rishi for the invite!
