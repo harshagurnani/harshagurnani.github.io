@@ -5,9 +5,9 @@ permalink: /nonsci/
 author_profile: true
 ---
 
-When I'm not reading neuroscience or mathematics, I'm enjoying modern art - fiction, poetry, visual arts -, listening to podcasts, watching cinema, or on a hike! I also do interviews and write profiles for [Stories of Women in Neuroscience](https://www.storiesofwin.org/) - read some of them [here](https://www.storiesofwin.org/profiles?author=67ef66e6f439a303ab3d43e8)!
+When I'm not reading neuroscience or mathematics, I'm enjoying modern art - fiction, poetry, visual arts, cinema  -  or on a hike "somewhere between the mountains and the sea"! I also do interviews and write profiles for [Stories of Women in Neuroscience](https://www.storiesofwin.org/) - read some of them [here](https://www.storiesofwin.org/profiles?author=67ef66e6f439a303ab3d43e8)!
 
-Here are some recommendations, arbitrarily updated at times based on a Poisson process... (or check on [Goodreads](https://www.goodreads.com/user/show/29608337-harsha-gurnani) or [Mubi](https://mubi.com/en/users/8800427))
+Here are some recommendations (or check on [Goodreads](https://www.goodreads.com/user/show/29608337-harsha-gurnani) or [Mubi](https://mubi.com/en/users/8800427))
 
 ### Literature
 - [The Waves](https://www.goodreads.com/book/show/46114.The_Waves_) by Virginia Woolf. 
