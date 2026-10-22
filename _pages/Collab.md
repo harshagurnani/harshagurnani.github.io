@@ -17,6 +17,11 @@ Assistant Professor\\
 Center for Neural Science\\
 New York University
 
+[Dr. Athena Akrami](https://lim.bio/)\\
+Principal Investigator\\
+Sainsbury Wellcome Centre\\
+University College London
+
 [Dr. Alex Cayco-Gajic](https://caycogajiclab.github.io/)\\
 Group for Neural Theory (GNT) \\
 Département D’Etudes Cognitives \\
