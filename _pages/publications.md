@@ -8,6 +8,8 @@ Please refer to my [Google scholar](https://scholar.google.com/citations?user=2u
 
 
 ### Preprints
+Alessandro Barri\*, **Harsha Gurnani**, R Angus Silver. __Geometric determinants of time series learning and attractor stability in closed-loop circuits__ (2026). [[links]](https://www.biorxiv.org/content/10.64898/2026.11.10.765266v1)
+
 Margaret L DeMaegd\*, David Hocker, **Harsha Gurnani**, Mitzi Adler-Wachter, Jonny Schindler, Shannon S Schiereck, Cristina Savin, Christine M Constantinople. __A cortico-striatal circuit updates subjective beliefs about latent task states__ (2026). [[link]](https://doi.org/10.64898/2026.03.12.711369)
 
 ### Peer-reviewed publications
