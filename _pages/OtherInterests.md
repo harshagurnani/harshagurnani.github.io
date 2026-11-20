@@ -5,7 +5,7 @@ permalink: /nonsci/
 author_profile: true
 ---
 
-When I'm not reading neuroscience or mathematics, I'm enjoying modern art - fiction, poetry, visual arts, cinema  -  or on a hike "somewhere between the mountains and the sea"! I also do interviews and write profiles for [Stories of Women in Neuroscience](https://www.storiesofwin.org/) - read some of them [here](https://www.storiesofwin.org/profiles?author=67ef66e6f439a303ab3d43e8)!
+I enjoy modern art - fiction, poetry, visual arts, cinema  - often puzzling over what it reveals about our inner lives, memory and perception, and other philosophical musings. I sometimes attempt (amateurish) art myself - life drawing, painting, and writing the odd poem - or escape the city for a hike "somewhere between the mountains and the sea"! I also do interviews and write profiles for [Stories of Women in Neuroscience](https://www.storiesofwin.org/) - read some of them [here](https://www.storiesofwin.org/profiles?author=67ef66e6f439a303ab3d43e8)!
 
 Here are some recommendations (or check on [Goodreads](https://www.goodreads.com/user/show/29608337-harsha-gurnani) or [Mubi](https://mubi.com/en/users/8800427))
 
@@ -16,8 +16,8 @@ A patchwork of moments and perspectives, solitary and shared, is all that life i
 - [The Copenhagen trilogy](https://www.goodreads.com/book/show/53317528-childhood-youth-dependency) by Tove Ditlevsen. 
 This book, the lyricism, the melancholy will haunt my soul for a while..
 
-- [The Price of Peace](https://www.goodreads.com/book/show/49644992-the-price-of-peace) by Zachary D. Carter. 
-A biography of John Maynard Keynes - his intellectual, political and economic legacy, his contributions to American and British wartime and inter-war rebuilding efforts, his love for the arts, and how neoliberalism dissolved the hope for a fairer world by (for now) beating even this version of moderate socialism.
+- [By Night in Chile](https://www.goodreads.com/en/book/show/63031.By_Night_in_Chile) by Robert Bolano. 
+One long monologue by a priest/poet/critic (whose one true love is "high art") recalling from his deathbed his own complicity and moral failing, along with that of other "intellectuals" - writers,  artists, critics - during the fascist reign of Pinochet in Chile. An engrossing tale on internal conflict between ideals, ethics, and ambition, as the narrator is trapped by both his conscience and his lack of courage. Unfortunately a cycle that is doomed to repeat itself in every generation. 
 
 - [Capital and Ideology](https://www.goodreads.com/book/show/50849430-capital-and-ideology) or [Capital in the Twenty-First Century](https://www.goodreads.com/book/show/18736925-capital-in-the-twenty-first-century) by Thomas Piketty on the nature of political economies. 
 Choose the former if you are interested in historical accounts of how different material and ideological factors created the different economic structures across civilizations and time. Choose the latter if you want to have empirically-backed arguments about inequality and concentration of wealth in the 21st century.
