@@ -5,7 +5,7 @@ permalink: /nonsci/
 author_profile: true
 ---
 
-I enjoy modern art - fiction, poetry, visual arts, cinema  - often puzzling over what it reveals about our inner lives, memory and perception, and other philosophical musings. I sometimes attempt (amateurish) art myself - life drawing, painting, and writing the odd poem - or escape the city for a hike "somewhere between the mountains and the sea"! I also do interviews and write profiles for [Stories of Women in Neuroscience](https://www.storiesofwin.org/) - read some of them [here](https://www.storiesofwin.org/profiles?author=67ef66e6f439a303ab3d43e8)!
+I enjoy modern art - fiction, poetry, visual arts, cinema  - often puzzling over what it reveals about our inner and social lives, memory and perception, and other philosophical musings. I sometimes attempt (amateurish) art myself - life drawing, painting, and writing the odd poem - or escape the city for a hike "somewhere between the mountains and the sea"! I also do interviews and write profiles for [Stories of Women in Neuroscience](https://www.storiesofwin.org/) - read some of them [here](https://www.storiesofwin.org/profiles?author=67ef66e6f439a303ab3d43e8)!
 
 Here are some recommendations (or check on [Goodreads](https://www.goodreads.com/user/show/29608337-harsha-gurnani) or [Mubi](https://mubi.com/en/users/8800427))
 
